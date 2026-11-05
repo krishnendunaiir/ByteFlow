@@ -1,0 +1,1513 @@
+customer_id,tenure_months,contract_type,internet_service,monthly_charges,total_charges,support_calls,region,churn
+10001,52,One year,Fiber optic,106.68,5606.71,0,South,No
+10002,64,Month-to-month,None,12.37,844.97,5,East,No
+10003,14,Two year,Fiber optic,74.92,1021.95,1,East,Yes
+10004,59,One year,Fiber optic,77.34,4563.6,3,North,Yes
+10005,21,Month-to-month,None,21.17,412.03,1,West,Yes
+10006,31,Two year,Fiber optic,999.99,2804.67,0,South,No
+10007,35,One year,Fiber optic,89.73,3117.0,1,West,No
+10008,55,One year,Fiber optic,86.38,4803.74,2,East,No
+10009,43,Month-to-month,DSL,49.23,2150.58,5,West,No
+10010,20,Month-to-month,Fiber optic,79.46,1550.46,0,North,Yes
+10011,3,Month-to-month,DSL,43.05,116.55,3,North,Yes
+10012,38,Two year,DSL,44.84,1733.86,0,North,No
+10013,30,One year,Fiber optic,72.33,2146.95,1,West,No
+10014,9,Two year,Fiber optic,75.71,684.57,2,West,No
+10015,32,Month-to-month,None,,432.95,0,West,No
+10016,27,Month-to-month,DSL,51.11,1395.68,2,South,Yes
+10017,63,One year,DSL,46.96,2968.82,1,South,No
+10018,72,Month-to-month,None,999.99,1909.82,1,South,No
+10019,51,Two year,DSL,30.28,1522.38,0,West,No
+10020,26,One year,DSL,33.13,816.07,3,South,No
+10021,28,One year,DSL,50.31,1346.11,1,East,No
+10022,14,Month-to-month,Fiber optic,62.77,874.2,3,East,No
+10023,16,Two year,None,31.8,541.4,1,South,No
+10024,24,Two year,Fiber optic,70.41,1634.71,0,South,No
+10025,23,One year,Fiber optic,91.75,2121.09,1,East,No
+10026,8,Month-to-month,DSL,37.89,334.52,3,West,Yes
+10027,64,Month-to-month,Fiber optic,93.39,5903.57,2,North,Yes
+10028,70,Month-to-month,Fiber optic,110.67,7735.75,7,East,Yes
+10029,63,Month-to-month,DSL,26.81,1755.17,3,North,No
+10030,71,One year,DSL,50.56,3612.05,1,North,No
+10031,72,One year,DSL,30.53,2123.68,1,East,No
+10032,14,Two year,DSL,48.41,704.13,0,South,No
+10033,72,Month-to-month,Fiber optic,83.35,5970.99,2,South,No
+10034,20,Month-to-month,Fiber optic,86.04,1748.42,1,North,No
+10035,42,Month-to-month,DSL,37.71,1556.07,1,West,No
+10036,6,Month-to-month,Fiber optic,91.24,545.34,3,West,Yes
+10037,18,Month-to-month,Fiber optic,73.41,1299.93,1,West,Yes
+10038,52,Month-to-month,Fiber optic,94.93,4936.65,3,North,No
+10039,43,Month-to-month,None,18.73,782.53,2,North,No
+10040,20,One year,Fiber optic,73.78,1466.63,0,North,No
+10041,28,Month-to-month,None,34.76,926.24,0,North,No
+10042,17,Two year,DSL,44.46,775.47,2,South,No
+10043,52,One year,Fiber optic,100.26,5220.59,1,East,No
+10044,67,Month-to-month,DSL,54.77,3604.99,1,North,No
+10045,14,Two year,Fiber optic,78.61,1140.32,1,South,No
+10046,26,Two year,Fiber optic,84.32,2185.27,1,East,No
+10047,8,Month-to-month,DSL,45.97,374.22,2,South,Yes
+10048,32,Month-to-month,Fiber optic,97.21,3141.32,2,South,Yes
+10049,39,One year,DSL,48.5,1904.64,0,East,No
+10050,34,Month-to-month,DSL,46.41,1624.56,3,West,No
+10051,37,Month-to-month,DSL,43.4,1594.1,0,South,No
+10052,24,Month-to-month,Fiber optic,84.6,2071.67,2,North,No
+10053,25,One year,DSL,55.44,1390.84,3,West,Yes
+10054,24,One year,Fiber optic,85.03,2061.02,1,East,No
+10055,18,One year,DSL,41.84,769.27,0,South,No
+10056,20,One year,Fiber optic,80.48,1659.31,2,East,No
+10057,37,Month-to-month,None,17.57,678.94,4,West,Yes
+10058,64,One year,Fiber optic,73.78,4704.41,0,North,No
+10059,12,Month-to-month,Fiber optic,79.0,922.31,2,West,No
+10060,25,Month-to-month,None,33.99,847.69,2,East,No
+10061,10,One year,None,20.35,173.07,1,East,No
+10062,18,Month-to-month,Fiber optic,90.64,1589.35,4,West,No
+10063,21,One year,None,2.17,-39.55,0,South,No
+10064,30,One year,None,26.55,734.42,0,West,No
+10065,30,One year,Fiber optic,83.71,2590.69,2,East,No
+10066,26,One year,Fiber optic,81.15,2083.6,0,West,No
+10067,35,One year,DSL,46.45,1701.81,1,South,No
+10068,13,Month-to-month,DSL,41.03,549.56,3,East,No
+10069,30,Month-to-month,Fiber optic,68.01,2038.28,1,South,Yes
+10070,44,Month-to-month,Fiber optic,92.38,4004.61,4,South,Yes
+10071,13,Month-to-month,Fiber optic,86.94,1130.46,2,South,Yes
+10072,5,Month-to-month,Fiber optic,82.49,488.13,3,West,No
+10073,52,Two year,Fiber optic,77.27,4080.37,1,West,No
+10074,10,Month-to-month,None,10.24,113.38,1,North,Yes
+10075,17,Month-to-month,DSL,46.79,749.5,3,West,Yes
+10076,43,Month-to-month,DSL,57.91,2451.74,4,East,Yes
+10077,12,Month-to-month,Fiber optic,86.63,1005.4,1,North,No
+10078,49,One year,None,,587.08,1,West,No
+10079,15,One year,None,23.8,422.28,1,North,No
+10080,14,One year,None,21.57,309.86,1,West,No
+10081,10,One year,None,28.91,277.0,2,South,Yes
+10082,15,Month-to-month,DSL,49.85,809.76,2,West,Yes
+10083,39,Two year,Fiber optic,61.11,2344.28,1,South,No
+10084,17,Month-to-month,DSL,49.36,841.23,2,North,No
+10085,52,Month-to-month,Fiber optic,76.97,4021.07,3,West,Yes
+10086,27,Month-to-month,None,10.63,252.39,3,East,No
+10087,29,One year,DSL,43.49,1235.84,2,South,No
+10088,13,Month-to-month,Fiber optic,88.29,1119.19,2,North,Yes
+10089,57,Month-to-month,DSL,31.87,1873.49,1,West,No
+10090,44,Month-to-month,DSL,50.64,2304.59,2,West,No
+10091,43,Month-to-month,DSL,51.11,2202.18,2,South,No
+10092,23,One year,DSL,,1032.91,2,East,No
+10093,9,Month-to-month,None,15.06,111.54,2,North,No
+10094,30,Month-to-month,Fiber optic,77.16,2315.02,3,North,No
+10095,38,Month-to-month,None,30.21,1125.87,0,East,No
+10096,38,One year,Fiber optic,72.91,2766.71,0,West,No
+10097,35,Month-to-month,DSL,53.52,1889.58,3,West,Yes
+10098,34,Month-to-month,DSL,43.68,1468.85,1,South,No
+10099,15,Month-to-month,None,,310.92,1,North,Yes
+10100,16,Two year,DSL,31.34,493.95,0,East,No
+10101,10,Two year,None,20.83,195.56,0,East,No
+10102,52,One year,DSL,49.91,2577.59,0,West,No
+10103,72,Month-to-month,Fiber optic,74.31,5380.72,1,North,No
+10104,72,Two year,None,25.99,1800.38,4,East,No
+10105,31,One year,DSL,45.71,1480.05,0,East,No
+10106,34,One year,DSL,39.85,1360.32,0,East,Yes
+10107,24,Month-to-month,None,28.84,716.5,1,North,Yes
+10108,31,Month-to-month,DSL,27.38,877.84,1,North,No
+10109,12,Month-to-month,Fiber optic,87.77,1024.96,2,East,No
+10110,24,Two year,Fiber optic,97.96,2314.36,2,North,No
+10111,14,Month-to-month,DSL,56.52,749.98,1,East,Yes
+10112,21,Month-to-month,Fiber optic,88.12,1840.6,2,North,No
+10113,15,Month-to-month,Fiber optic,82.59,1266.77,2,West,Yes
+10114,38,One year,Fiber optic,79.91,3013.37,4,South,No
+10115,41,Month-to-month,None,19.58,826.96,3,South,Yes
+10116,33,Two year,DSL,49.35,1533.85,1,South,No
+10117,16,One year,DSL,38.54,601.25,1,South,No
+10118,9,One year,Fiber optic,91.06,866.22,3,East,Yes
+10119,42,Month-to-month,None,39.07,1633.9,3,East,Yes
+10120,27,One year,DSL,44.5,1168.47,3,East,Yes
+10121,5,One year,DSL,34.24,144.95,0,West,No
+10122,30,One year,Fiber optic,74.24,2106.14,1,North,No
+10123,34,Month-to-month,None,28.21,918.75,3,West,No
+10124,7,Month-to-month,DSL,44.52,353.94,1,East,Yes
+10125,38,Month-to-month,Fiber optic,92.01,3473.25,1,South,No
+10126,8,Month-to-month,Fiber optic,80.73,627.27,1,West,Yes
+10127,15,Month-to-month,Fiber optic,91.64,1281.4,1,East,No
+10128,8,Month-to-month,DSL,43.73,284.64,3,North,Yes
+10129,13,Month-to-month,DSL,39.14,556.42,2,North,No
+10130,9,One year,Fiber optic,81.79,760.82,0,East,No
+10131,52,Month-to-month,Fiber optic,75.42,3870.13,4,East,No
+10132,22,Two year,None,37.91,808.9,2,North,No
+10133,19,One year,Fiber optic,84.23,1599.18,0,East,No
+10134,55,Month-to-month,Fiber optic,90.16,4910.74,0,East,No
+10135,53,One year,None,17.71,858.2,1,West,No
+10136,20,Month-to-month,Fiber optic,76.58,1525.32,3,East,Yes
+10137,33,Two year,Fiber optic,83.13,2766.16,2,West,No
+10138,17,Month-to-month,None,30.81,547.44,0,North,Yes
+10139,25,One year,DSL,40.83,1055.86,0,West,No
+10140,11,Month-to-month,Fiber optic,78.04,796.25,1,South,No
+10141,36,Month-to-month,Fiber optic,86.24,3107.09,1,East,Yes
+10142,57,Month-to-month,DSL,48.99,2781.82,6,West,Yes
+10143,50,Two year,Fiber optic,98.14,4903.65,4,West,No
+10144,28,One year,DSL,47.83,1330.77,4,North,No
+10145,4,Month-to-month,DSL,50.15,174.19,1,North,No
+10146,16,Month-to-month,Fiber optic,90.75,1331.36,1,East,Yes
+10147,25,Month-to-month,DSL,35.78,940.87,1,West,No
+10148,8,Month-to-month,Fiber optic,77.29,631.55,2,East,Yes
+10149,7,Month-to-month,None,13.33,33.93,3,North,No
+10150,67,Month-to-month,None,11.34,778.9,7,North,No
+10151,47,Two year,DSL,51.36,2396.2,1,East,No
+10152,38,Two year,DSL,47.32,1781.42,0,East,No
+10153,43,Month-to-month,DSL,45.64,1931.61,3,West,Yes
+10154,10,One year,DSL,24.26,264.06,1,East,No
+10155,13,Month-to-month,None,38.44,467.78,2,South,Yes
+10156,31,One year,Fiber optic,77.85,2369.35,0,North,No
+10157,33,Month-to-month,DSL,61.41,2071.95,4,West,Yes
+10158,8,One year,None,10.41,76.09,1,West,Yes
+10159,30,One year,Fiber optic,78.5,2349.12,1,North,No
+10160,25,One year,DSL,27.38,712.13,0,South,Yes
+10161,49,Month-to-month,DSL,47.9,2320.25,3,South,No
+10162,33,Two year,Fiber optic,76.19,2495.54,1,East,No
+10163,72,Month-to-month,Fiber optic,76.42,5514.18,4,West,Yes
+10164,20,Month-to-month,DSL,34.02,618.74,4,North,Yes
+10165,10,One year,None,28.22,291.03,4,West,Yes
+10166,71,Month-to-month,None,27.69,1935.88,3,North,No
+10167,34,Two year,None,36.5,1275.09,1,West,No
+10168,25,Two year,DSL,39.51,1009.73,3,East,No
+10169,13,Month-to-month,DSL,46.75,624.34,1,North,Yes
+10170,20,Two year,None,11.69,169.43,0,East,Yes
+10171,20,Month-to-month,DSL,42.32,842.26,3,South,Yes
+10172,10,Month-to-month,Fiber optic,80.85,761.4,3,,Yes
+10173,3,Month-to-month,Fiber optic,88.72,264.67,3,North,Yes
+10174,19,Two year,DSL,53.14,916.98,1,East,No
+10175,44,Month-to-month,Fiber optic,92.93,4027.22,1,West,Yes
+10176,60,Month-to-month,None,15.26,963.01,3,East,No
+10177,51,Month-to-month,Fiber optic,92.99,4757.14,0,West,No
+10178,53,Two year,Fiber optic,84.65,4472.16,0,South,No
+10179,11,Two year,None,19.4,177.09,0,East,No
+10180,32,One year,Fiber optic,79.33,2495.25,0,West,Yes
+10181,38,Two year,Fiber optic,80.52,3067.79,1,South,No
+10182,40,Two year,None,35.94,1423.8,1,East,No
+10183,25,Month-to-month,Fiber optic,87.46,2248.35,3,North,No
+10184,29,Month-to-month,DSL,46.4,1338.12,2,East,Yes
+10185,50,One year,DSL,42.9,2147.45,1,West,No
+10186,37,One year,DSL,,2333.47,0,West,No
+10187,42,Month-to-month,Fiber optic,95.44,3994.06,3,South,No
+10188,19,Month-to-month,Fiber optic,79.23,1512.48,3,East,Yes
+10189,41,One year,Fiber optic,82.81,3380.34,2,East,No
+10190,29,Month-to-month,Fiber optic,83.29,2395.87,2,West,No
+10191,46,Two year,Fiber optic,86.17,3976.76,2,West,No
+10192,15,Month-to-month,None,16.39,306.45,3,West,Yes
+10193,44,Month-to-month,DSL,48.51,2140.26,5,West,Yes
+10194,21,Two year,Fiber optic,96.62,2074.72,0,South,No
+10195,44,Month-to-month,Fiber optic,74.49,3302.47,2,South,No
+10196,32,Month-to-month,Fiber optic,75.97,2474.57,2,South,Yes
+10197,27,One year,DSL,41.13,1086.25,0,South,No
+10198,21,Two year,Fiber optic,81.51,1703.34,0,West,No
+10199,25,Month-to-month,None,37.99,941.58,3,West,No
+10200,19,Month-to-month,Fiber optic,93.01,1789.11,2,,Yes
+10201,21,One year,None,29.55,652.34,1,East,No
+10202,37,Two year,None,19.89,740.75,2,North,No
+10203,6,Month-to-month,Fiber optic,82.71,531.33,3,North,Yes
+10204,44,Month-to-month,Fiber optic,73.39,3206.47,2,South,No
+10205,44,Month-to-month,Fiber optic,,4050.59,1,East,No
+10206,22,Month-to-month,None,25.93,611.06,4,South,Yes
+10207,30,Month-to-month,DSL,55.29,1685.74,4,East,No
+10208,12,One year,Fiber optic,83.31,1005.13,0,West,No
+10209,35,Month-to-month,None,20.87,758.83,4,South,No
+10210,14,Month-to-month,DSL,,613.28,2,West,No
+10211,1,One year,Fiber optic,92.14,100.07,0,East,No
+10212,58,One year,Fiber optic,73.24,4259.84,2,West,No
+10213,11,Month-to-month,None,27.89,253.59,5,North,Yes
+10214,25,Two year,None,21.84,564.88,3,South,No
+10215,30,One year,DSL,36.53,1045.97,0,West,No
+10216,37,One year,Fiber optic,,2510.84,1,West,No
+10217,27,Month-to-month,DSL,43.91,1187.11,0,East,No
+10218,32,Month-to-month,Fiber optic,96.58,3061.39,3,North,No
+10219,22,Two year,Fiber optic,98.4,2168.05,1,North,No
+10220,7,Month-to-month,None,24.84,176.56,3,South,Yes
+10221,26,Month-to-month,DSL,60.7,1545.29,3,West,Yes
+10222,40,Month-to-month,DSL,44.66,1808.98,0,South,No
+10223,12,One year,Fiber optic,92.63,1080.95,2,West,Yes
+10224,31,Two year,Fiber optic,81.39,2614.61,1,East,No
+10225,72,Month-to-month,Fiber optic,80.88,5819.21,3,North,Yes
+10226,25,Two year,DSL,39.58,942.65,0,East,No
+10227,26,Month-to-month,DSL,28.52,702.04,2,South,No
+10228,6,One year,None,32.3,239.68,1,North,No
+10229,11,One year,DSL,39.87,422.17,0,East,No
+10230,14,Month-to-month,Fiber optic,78.59,1045.69,3,North,No
+10231,39,Month-to-month,None,12.56,524.0,4,West,No
+10232,12,Month-to-month,DSL,43.37,503.76,4,West,No
+10233,4,Two year,Fiber optic,99.11,422.57,0,West,No
+10234,35,One year,DSL,61.75,2198.68,0,North,Yes
+10235,15,Two year,None,8.71,141.67,1,West,No
+10236,7,Two year,Fiber optic,82.16,670.99,1,South,No
+10237,42,Month-to-month,None,13.73,507.47,3,East,No
+10238,20,One year,DSL,52.91,1025.42,1,North,No
+10239,37,Month-to-month,Fiber optic,87.29,3219.59,3,West,Yes
+10240,6,Month-to-month,Fiber optic,79.91,569.89,5,South,Yes
+10241,3,Two year,DSL,,208.66,1,East,No
+10242,29,One year,DSL,41.18,1245.79,1,South,No
+10243,10,Month-to-month,DSL,57.91,547.37,3,West,Yes
+10244,28,Month-to-month,None,26.38,711.42,3,East,Yes
+10245,29,One year,Fiber optic,90.36,2587.26,1,South,Yes
+10246,26,Two year,Fiber optic,63.66,1623.94,1,South,No
+10247,52,One year,Fiber optic,84.47,4451.92,0,North,No
+10248,72,Month-to-month,Fiber optic,101.67,7310.18,1,South,No
+10249,34,Month-to-month,Fiber optic,95.61,3246.25,2,West,Yes
+10250,72,Month-to-month,Fiber optic,,5087.05,3,West,No
+10251,20,One year,Fiber optic,,1583.31,1,West,Yes
+10252,9,Two year,DSL,35.39,320.6,1,North,No
+10253,16,Month-to-month,None,35.69,527.15,0,South,No
+10254,21,Month-to-month,None,23.95,491.26,2,West,No
+10255,72,Month-to-month,DSL,38.86,2774.29,1,South,No
+10256,27,One year,Fiber optic,85.27,2276.86,1,North,No
+10257,54,Two year,DSL,24.14,1312.64,2,South,No
+10258,19,Month-to-month,None,13.32,261.93,3,West,No
+10259,17,Month-to-month,None,22.29,370.16,1,West,No
+10260,6,One year,None,28.77,187.42,3,North,No
+10261,72,Month-to-month,DSL,29.47,2087.06,1,West,No
+10262,65,Two year,DSL,41.95,2754.06,1,East,No
+10263,31,Month-to-month,DSL,53.08,1637.15,4,West,Yes
+10264,22,Month-to-month,DSL,33.39,715.2,2,East,Yes
+10265,28,Two year,DSL,46.83,1279.55,1,East,Yes
+10266,8,Month-to-month,DSL,45.53,354.57,2,East,Yes
+10267,37,Month-to-month,None,35.72,1396.28,1,East,No
+10268,62,Month-to-month,DSL,43.16,2673.32,2,West,Yes
+10269,64,Month-to-month,DSL,43.63,2746.36,4,East,No
+10270,6,Month-to-month,None,28.84,209.79,1,North,Yes
+10271,53,Month-to-month,Fiber optic,74.39,3923.75,0,North,No
+10272,8,Month-to-month,Fiber optic,83.23,677.21,0,South,Yes
+10273,3,Month-to-month,Fiber optic,81.35,219.84,4,South,Yes
+10274,55,One year,None,20.89,1200.11,2,West,No
+10275,18,One year,Fiber optic,91.79,1628.54,1,North,No
+10276,50,Month-to-month,Fiber optic,89.43,4527.58,2,West,No
+10277,47,Month-to-month,Fiber optic,79.01,3671.53,3,North,No
+10278,43,Month-to-month,Fiber optic,86.09,3690.31,2,South,No
+10279,28,Two year,DSL,56.92,1649.86,1,South,No
+10280,9,Two year,Fiber optic,78.35,711.87,0,East,No
+10281,21,Month-to-month,DSL,46.16,1060.25,3,North,No
+10282,65,Month-to-month,Fiber optic,83.45,5413.79,3,West,Yes
+10283,50,Month-to-month,DSL,,2235.08,1,North,No
+10284,22,Month-to-month,DSL,31.95,779.21,1,West,Yes
+10285,22,One year,DSL,56.29,1177.74,2,East,No
+10286,40,Month-to-month,None,15.81,566.7,3,West,Yes
+10287,29,Month-to-month,DSL,53.21,1511.23,2,West,No
+10288,23,Month-to-month,Fiber optic,80.03,1873.2,5,West,Yes
+10289,38,Month-to-month,None,17.0,581.45,1,South,Yes
+10290,37,Month-to-month,DSL,54.7,2047.97,4,South,Yes
+10291,16,Two year,Fiber optic,92.95,1508.29,3,East,No
+10292,34,Month-to-month,DSL,46.67,1667.33,2,East,Yes
+10293,36,Two year,DSL,51.09,1881.03,3,West,No
+10294,26,Month-to-month,Fiber optic,82.69,2164.54,0,South,No
+10295,15,Two year,None,21.93,383.36,0,South,No
+10296,21,Two year,DSL,39.71,855.4,3,North,No
+10297,12,Two year,Fiber optic,92.23,1088.39,2,North,No
+10298,34,Two year,DSL,39.45,1295.61,2,West,No
+10299,6,One year,Fiber optic,96.88,558.51,0,West,Yes
+10300,69,One year,Fiber optic,,5689.06,3,East,No
+10301,60,One year,Fiber optic,85.16,5116.84,1,South,No
+10302,36,Month-to-month,Fiber optic,91.07,3193.11,3,North,No
+10303,48,Month-to-month,DSL,45.19,2160.38,3,North,No
+10304,46,Month-to-month,Fiber optic,82.62,3801.51,2,East,No
+10305,30,Two year,Fiber optic,84.76,2564.7,2,East,No
+10306,23,Month-to-month,Fiber optic,92.15,2184.53,2,South,No
+10307,21,Month-to-month,DSL,39.7,841.07,0,North,No
+10308,70,One year,Fiber optic,83.99,5842.92,3,North,No
+10309,14,Month-to-month,Fiber optic,85.08,1118.43,5,East,No
+10310,14,Month-to-month,DSL,51.92,754.31,2,East,No
+10311,51,Month-to-month,DSL,44.2,2219.5,3,South,No
+10312,48,Month-to-month,Fiber optic,99.47,4809.06,0,East,No
+10313,22,Month-to-month,Fiber optic,83.75,1898.35,1,,No
+10314,39,Month-to-month,DSL,43.1,1619.08,2,East,No
+10315,42,Month-to-month,None,20.63,888.69,1,South,No
+10316,9,Month-to-month,Fiber optic,74.47,721.91,2,North,Yes
+10317,62,Month-to-month,Fiber optic,76.71,4796.55,3,West,No
+10318,42,One year,Fiber optic,80.75,3307.84,2,East,No
+10319,37,Month-to-month,Fiber optic,94.09,3447.06,4,South,Yes
+10320,43,Two year,Fiber optic,84.73,3592.4,0,North,No
+10321,34,Two year,None,18.12,637.12,2,West,No
+10322,25,Month-to-month,Fiber optic,94.81,2386.84,0,West,No
+10323,30,Month-to-month,Fiber optic,97.41,2814.37,2,South,No
+10324,8,Month-to-month,Fiber optic,95.04,748.31,2,South,No
+10325,72,Two year,Fiber optic,78.18,5660.65,0,East,No
+10326,25,One year,DSL,41.04,1031.87,2,West,No
+10327,72,Two year,Fiber optic,99.51,7170.56,1,East,No
+10328,30,Month-to-month,Fiber optic,86.93,2593.27,4,North,Yes
+10329,17,One year,None,19.86,295.25,1,North,No
+10330,61,Month-to-month,Fiber optic,90.75,5534.87,3,North,No
+10331,36,One year,Fiber optic,93.06,3352.19,0,South,No
+10332,72,Month-to-month,None,17.43,1279.46,4,South,No
+10333,17,One year,Fiber optic,86.76,1502.7,1,East,No
+10334,63,Two year,DSL,52.41,3305.42,0,West,No
+10335,65,Month-to-month,DSL,35.72,2365.45,3,North,No
+10336,45,One year,DSL,45.1,2014.45,1,West,No
+10337,65,Month-to-month,DSL,36.08,2287.76,1,South,No
+10338,25,One year,Fiber optic,77.13,1947.37,0,East,No
+10339,14,Month-to-month,Fiber optic,80.5,1131.99,2,North,Yes
+10340,18,Two year,Fiber optic,88.82,1618.58,2,South,No
+10341,29,Month-to-month,DSL,42.42,1179.71,5,West,Yes
+10342,46,Two year,Fiber optic,79.81,3743.01,1,North,No
+10343,15,Two year,DSL,45.41,709.61,2,South,No
+10344,21,One year,None,12.82,257.79,1,East,No
+10345,16,One year,DSL,48.43,737.47,0,East,No
+10346,52,One year,Fiber optic,94.05,4933.74,1,South,No
+10347,72,Two year,DSL,44.37,3150.31,1,South,No
+10348,12,Month-to-month,Fiber optic,83.38,1091.0,6,West,No
+10349,40,One year,Fiber optic,87.99,3494.97,2,North,No
+10350,56,Month-to-month,Fiber optic,68.77,3920.07,0,South,No
+10351,24,One year,DSL,49.29,1175.69,0,South,No
+10352,8,Month-to-month,None,46.82,437.75,1,West,Yes
+10353,61,One year,Fiber optic,84.02,5095.74,1,West,No
+10354,8,One year,Fiber optic,,673.13,1,West,Yes
+10355,72,Month-to-month,None,27.95,2044.51,2,North,No
+10356,16,Month-to-month,None,35.16,589.09,3,North,Yes
+10357,7,One year,DSL,52.8,413.63,0,South,No
+10358,19,One year,DSL,27.76,507.85,2,South,No
+10359,27,Month-to-month,DSL,49.51,1340.09,4,North,Yes
+10360,31,One year,DSL,65.58,2082.77,1,West,Yes
+10361,42,Two year,Fiber optic,,3750.93,0,West,No
+10362,33,Month-to-month,None,12.76,444.09,3,South,Yes
+10363,72,Month-to-month,None,24.25,1737.57,2,West,No
+10364,26,Month-to-month,Fiber optic,74.75,1951.85,2,East,Yes
+10365,35,One year,Fiber optic,94.86,3323.57,0,East,No
+10366,33,Month-to-month,None,14.35,442.12,1,West,No
+10367,6,One year,None,22.59,125.14,2,North,No
+10368,10,One year,DSL,38.14,387.17,3,North,Yes
+10369,29,Month-to-month,Fiber optic,80.63,2334.12,2,South,Yes
+10370,38,Two year,None,33.89,1350.7,0,West,No
+10371,4,One year,DSL,45.83,223.71,2,East,Yes
+10372,72,Month-to-month,Fiber optic,80.53,5809.5,2,South,No
+10373,40,Month-to-month,None,12.84,483.0,1,North,No
+10374,28,Month-to-month,None,7.03,163.78,2,East,No
+10375,38,Month-to-month,None,11.99,534.56,1,South,No
+10376,18,Month-to-month,Fiber optic,85.9,1505.73,2,South,Yes
+10377,32,Two year,DSL,52.84,1695.49,0,West,No
+10378,35,Month-to-month,DSL,40.52,1432.54,2,,Yes
+10379,61,Month-to-month,Fiber optic,97.56,5938.97,2,North,Yes
+10380,25,One year,Fiber optic,79.26,1941.41,0,North,No
+10381,8,One year,Fiber optic,83.1,633.37,2,South,Yes
+10382,14,Two year,Fiber optic,76.36,1047.23,0,North,No
+10383,23,One year,Fiber optic,92.93,2108.92,0,South,No
+10384,9,Month-to-month,Fiber optic,101.78,969.13,1,South,Yes
+10385,13,Month-to-month,DSL,30.91,401.41,2,West,No
+10386,14,Two year,DSL,42.23,570.28,0,South,No
+10387,22,One year,DSL,55.12,1216.88,2,South,No
+10388,39,Two year,DSL,33.42,1330.27,1,East,No
+10389,21,Month-to-month,None,26.53,543.42,3,East,Yes
+10390,41,Two year,Fiber optic,,3921.72,0,North,No
+10391,28,One year,DSL,45.63,1226.68,1,North,Yes
+10392,13,Month-to-month,Fiber optic,89.4,1209.08,1,North,Yes
+10393,36,One year,Fiber optic,99.09,3566.78,3,West,No
+10394,32,One year,DSL,60.59,1936.88,0,,No
+10395,42,Month-to-month,DSL,44.5,1841.46,3,West,No
+10396,48,Month-to-month,DSL,,1906.45,1,South,No
+10397,63,Two year,Fiber optic,77.64,4824.66,0,West,No
+10398,40,Month-to-month,DSL,52.82,2082.12,0,North,No
+10399,31,Month-to-month,DSL,34.03,1078.31,3,South,Yes
+10400,42,Month-to-month,DSL,42.98,1766.68,0,North,No
+10401,20,Month-to-month,Fiber optic,85.82,1654.49,2,West,Yes
+10402,18,Two year,DSL,40.98,701.21,0,East,No
+10403,68,One year,None,24.24,1632.83,0,North,No
+10404,18,Month-to-month,DSL,65.52,1165.47,1,East,Yes
+10405,14,Two year,Fiber optic,84.03,1171.23,1,West,No
+10406,40,Two year,Fiber optic,81.52,3301.97,0,East,No
+10407,20,Month-to-month,Fiber optic,93.12,1912.42,2,West,No
+10408,47,Two year,DSL,46.92,2285.3,0,South,No
+10409,60,Month-to-month,None,33.51,1945.88,0,South,No
+10410,16,Two year,None,23.32,338.84,0,West,No
+10411,43,One year,DSL,43.01,1877.48,1,East,No
+10412,18,One year,DSL,30.73,534.98,2,East,No
+10413,23,Month-to-month,None,9.04,242.4,0,West,No
+10414,34,Two year,Fiber optic,70.31,2398.97,0,East,No
+10415,19,Month-to-month,DSL,48.03,975.83,0,North,Yes
+10416,32,Month-to-month,DSL,34.1,1132.97,1,North,No
+10417,25,Month-to-month,Fiber optic,95.04,2418.56,4,West,Yes
+10418,48,One year,Fiber optic,85.24,4075.14,2,North,Yes
+10419,48,Month-to-month,Fiber optic,83.05,3982.33,1,East,No
+10420,19,Two year,None,15.25,277.52,0,South,No
+10421,35,One year,Fiber optic,89.98,3089.0,1,East,No
+10422,53,Month-to-month,DSL,38.56,2102.76,2,North,No
+10423,12,Month-to-month,Fiber optic,77.12,955.22,3,South,Yes
+10424,25,Month-to-month,Fiber optic,94.51,2348.87,0,East,No
+10425,34,One year,DSL,47.84,1678.64,1,North,No
+10426,12,Two year,DSL,43.12,492.23,2,South,No
+10427,20,Month-to-month,Fiber optic,,1729.1,5,West,Yes
+10428,72,Two year,Fiber optic,85.07,6165.44,2,North,No
+10429,18,Month-to-month,DSL,48.06,814.01,1,East,Yes
+10430,20,Two year,Fiber optic,78.47,1561.47,0,North,No
+10431,40,Two year,Fiber optic,101.56,4070.77,1,East,No
+10432,11,One year,Fiber optic,80.36,899.41,1,North,No
+10433,25,One year,Fiber optic,97.45,2470.14,0,East,No
+10434,14,Two year,None,20.49,310.08,1,South,No
+10435,32,Month-to-month,Fiber optic,91.46,2948.61,4,East,Yes
+10436,1,Month-to-month,DSL,50.87,19.24,0,North,No
+10437,29,Month-to-month,Fiber optic,94.17,2742.84,4,East,No
+10438,35,Month-to-month,Fiber optic,78.28,2679.4,3,East,Yes
+10439,21,One year,DSL,53.61,1188.19,1,North,Yes
+10440,22,One year,DSL,59.77,1258.87,1,South,No
+10441,19,Two year,DSL,42.93,801.82,1,East,No
+10442,25,Month-to-month,Fiber optic,85.28,2079.19,3,East,Yes
+10443,69,One year,Fiber optic,80.81,5546.85,2,East,No
+10444,49,Month-to-month,DSL,42.23,2069.73,4,West,No
+10445,25,Month-to-month,None,35.69,871.13,1,South,No
+10446,20,One year,None,13.97,325.09,0,West,No
+10447,46,Two year,DSL,37.46,1732.38,0,West,No
+10448,31,One year,None,34.89,1062.99,0,East,No
+10449,12,Month-to-month,DSL,50.0,594.61,2,North,No
+10450,23,One year,None,38.96,944.94,0,South,No
+10451,64,Month-to-month,None,18.4,1213.73,8,North,Yes
+10452,39,Two year,DSL,46.01,1748.85,4,East,No
+10453,20,One year,Fiber optic,79.71,1567.07,1,South,No
+10454,8,Month-to-month,None,23.15,204.16,5,West,Yes
+10455,32,Month-to-month,None,7.81,263.97,1,East,Yes
+10456,28,Month-to-month,None,27.48,727.41,1,South,No
+10457,24,Two year,Fiber optic,87.59,2132.07,1,North,No
+10458,46,Month-to-month,DSL,44.54,2013.18,0,North,No
+10459,39,One year,None,18.88,788.36,2,East,No
+10460,8,One year,Fiber optic,77.84,643.91,1,West,No
+10461,28,One year,Fiber optic,90.82,2497.73,0,South,No
+10462,10,Month-to-month,Fiber optic,75.63,735.15,1,North,No
+10463,19,Two year,Fiber optic,89.1,1670.95,3,South,Yes
+10464,9,Month-to-month,DSL,61.6,560.76,3,West,Yes
+10465,9,One year,Fiber optic,96.88,863.8,0,East,No
+10466,35,One year,DSL,32.96,1107.74,1,North,No
+10467,33,One year,Fiber optic,80.71,2607.53,0,North,No
+10468,26,Two year,None,25.37,681.62,2,North,Yes
+10469,18,Month-to-month,Fiber optic,84.44,1531.33,1,West,Yes
+10470,9,Month-to-month,Fiber optic,73.8,668.46,3,West,No
+10471,19,Month-to-month,DSL,48.08,924.4,1,South,No
+10472,33,Month-to-month,None,21.92,698.6,2,East,No
+10473,32,Month-to-month,Fiber optic,100.31,3217.43,2,North,Yes
+10474,63,Month-to-month,Fiber optic,82.97,5328.91,1,East,No
+10475,58,Month-to-month,DSL,54.34,3198.94,3,South,No
+10476,27,Month-to-month,DSL,34.86,929.77,4,West,No
+10477,19,Month-to-month,Fiber optic,76.78,1437.81,1,South,Yes
+10478,15,One year,None,27.77,302.18,0,West,No
+10479,7,One year,Fiber optic,93.67,698.44,2,East,No
+10480,11,Month-to-month,DSL,37.34,442.21,3,South,No
+10481,33,Month-to-month,None,22.19,710.6,1,West,No
+10482,41,Month-to-month,Fiber optic,73.95,2974.57,1,West,Yes
+10483,22,One year,None,20.55,405.89,0,South,Yes
+10484,72,Month-to-month,DSL,51.7,3739.84,1,South,No
+10485,11,Month-to-month,Fiber optic,,893.15,4,,Yes
+10486,7,Month-to-month,None,20.01,167.72,3,North,Yes
+10487,72,Month-to-month,DSL,35.96,2592.7,3,South,No
+10488,8,Month-to-month,Fiber optic,79.81,677.18,2,West,Yes
+10489,22,One year,None,36.06,808.21,0,West,No
+10490,16,One year,DSL,45.58,762.49,2,South,No
+10491,34,One year,DSL,36.98,1173.78,1,South,No
+10492,21,One year,Fiber optic,82.48,1682.74,0,West,Yes
+10493,41,One year,DSL,32.22,1306.47,1,North,No
+10494,47,Month-to-month,DSL,,1776.86,3,North,No
+10495,7,One year,Fiber optic,95.88,746.4,1,,Yes
+10496,14,Month-to-month,Fiber optic,83.86,1167.47,2,North,Yes
+10497,43,Month-to-month,DSL,60.13,2560.95,2,West,No
+10498,53,One year,DSL,44.24,2266.37,2,North,No
+10499,30,Month-to-month,None,21.71,685.91,1,South,No
+10500,36,Month-to-month,Fiber optic,90.13,3222.57,3,East,No
+10501,66,One year,None,0.62,159.21,1,East,No
+10502,21,Two year,Fiber optic,86.64,1789.85,0,West,No
+10503,30,Two year,None,21.61,732.45,0,West,No
+10504,58,Month-to-month,Fiber optic,96.89,5649.46,3,South,Yes
+10505,60,Month-to-month,DSL,52.72,3121.92,3,North,No
+10506,25,One year,None,12.93,332.55,1,North,No
+10507,15,Month-to-month,Fiber optic,94.94,1454.91,3,West,Yes
+10508,25,Two year,DSL,42.9,1063.53,0,,No
+10509,27,Month-to-month,DSL,37.76,1053.16,3,West,No
+10510,14,Month-to-month,Fiber optic,86.58,1244.71,3,South,Yes
+10511,16,Month-to-month,DSL,43.38,717.9,1,West,Yes
+10512,60,Two year,DSL,57.31,3437.8,0,East,No
+10513,37,Month-to-month,DSL,47.72,1718.83,5,East,Yes
+10514,22,Month-to-month,Fiber optic,86.65,1903.12,3,East,Yes
+10515,11,Month-to-month,Fiber optic,92.21,1021.3,1,South,Yes
+10516,16,Month-to-month,Fiber optic,93.74,1424.85,2,North,No
+10517,6,Month-to-month,DSL,51.27,314.38,1,North,Yes
+10518,31,One year,DSL,56.36,1743.15,2,South,No
+10519,15,Month-to-month,Fiber optic,89.87,1296.18,4,,No
+10520,33,Two year,Fiber optic,86.34,2835.94,1,East,No
+10521,43,Two year,Fiber optic,94.91,4068.8,0,East,No
+10522,33,Month-to-month,DSL,44.27,1538.21,1,South,No
+10523,20,Month-to-month,DSL,45.27,914.12,2,South,Yes
+10524,14,One year,DSL,58.77,864.26,1,South,No
+10525,10,Month-to-month,Fiber optic,97.98,975.04,5,North,Yes
+10526,56,Month-to-month,Fiber optic,84.93,4681.38,5,East,Yes
+10527,32,Two year,None,18.37,614.78,2,South,No
+10528,21,Two year,Fiber optic,96.71,2004.49,1,South,No
+10529,39,One year,Fiber optic,,3551.31,0,East,No
+10530,51,Month-to-month,Fiber optic,87.52,4421.64,3,North,No
+10531,16,One year,DSL,42.43,681.71,1,West,No
+10532,31,One year,Fiber optic,87.65,2759.87,2,North,No
+10533,32,Month-to-month,DSL,44.83,1471.75,0,East,No
+10534,64,One year,Fiber optic,79.69,5163.31,0,West,No
+10535,21,Month-to-month,DSL,46.03,1035.8,1,North,Yes
+10536,13,Month-to-month,Fiber optic,87.12,1050.77,2,North,Yes
+10537,34,Month-to-month,None,19.0,598.15,1,,No
+10538,42,Month-to-month,DSL,52.23,2121.36,2,West,Yes
+10539,30,Month-to-month,Fiber optic,95.31,2884.6,7,East,Yes
+10540,67,Two year,Fiber optic,92.76,6187.14,3,South,No
+10541,20,Two year,DSL,,836.23,1,West,No
+10542,30,One year,Fiber optic,91.05,2722.73,1,South,No
+10543,8,Two year,Fiber optic,85.62,700.29,2,West,Yes
+10544,13,Two year,None,12.11,98.07,0,West,No
+10545,16,Month-to-month,None,27.38,387.75,3,North,Yes
+10546,23,Month-to-month,DSL,46.17,1061.94,1,South,No
+10547,9,Month-to-month,Fiber optic,105.75,999.69,1,North,No
+10548,39,Month-to-month,Fiber optic,96.66,3768.65,2,North,No
+10549,15,One year,DSL,50.69,728.67,0,North,No
+10550,72,Month-to-month,DSL,46.99,3297.59,1,North,No
+10551,15,Month-to-month,None,23.31,387.75,0,North,No
+10552,28,Month-to-month,DSL,36.97,1005.74,3,,No
+10553,26,Month-to-month,Fiber optic,71.09,1802.39,2,South,Yes
+10554,12,Two year,None,15.02,111.62,0,South,No
+10555,23,Month-to-month,DSL,44.62,968.66,2,West,Yes
+10556,23,Month-to-month,Fiber optic,68.16,1529.13,3,West,Yes
+10557,47,Month-to-month,None,17.65,819.78,4,East,Yes
+10558,35,Month-to-month,Fiber optic,83.02,2857.32,1,South,No
+10559,39,One year,DSL,43.28,1695.22,1,East,Yes
+10560,46,Month-to-month,DSL,39.71,1816.63,3,South,Yes
+10561,39,Month-to-month,None,19.27,840.33,2,South,No
+10562,31,Month-to-month,DSL,58.79,1754.35,6,South,No
+10563,16,Two year,Fiber optic,90.3,1451.21,2,North,No
+10564,30,One year,DSL,,1222.49,1,North,No
+10565,13,One year,Fiber optic,84.45,1056.67,1,East,No
+10566,24,One year,None,21.77,526.37,1,West,No
+10567,22,One year,Fiber optic,78.86,1765.62,1,South,No
+10568,23,Month-to-month,None,15.85,368.34,3,North,No
+10569,9,Month-to-month,DSL,53.08,533.14,1,East,No
+10570,1,Month-to-month,Fiber optic,81.64,-5.47,3,West,Yes
+10571,19,Month-to-month,None,13.24,217.92,2,East,No
+10572,54,Two year,Fiber optic,84.65,4630.37,0,North,No
+10573,28,Month-to-month,DSL,45.94,1322.92,1,North,Yes
+10574,51,One year,None,6.22,338.76,0,East,No
+10575,13,Two year,Fiber optic,84.67,1150.09,2,West,No
+10576,19,Month-to-month,Fiber optic,91.94,1670.27,2,North,No
+10577,72,Two year,None,25.61,1875.73,0,West,No
+10578,14,One year,DSL,62.84,922.31,1,West,No
+10579,38,Two year,DSL,55.01,2063.99,2,North,No
+10580,38,Month-to-month,DSL,56.59,2255.65,3,North,Yes
+10581,35,Month-to-month,Fiber optic,107.4,3766.88,1,North,Yes
+10582,38,Month-to-month,DSL,51.07,1852.77,2,East,Yes
+10583,14,Month-to-month,Fiber optic,86.3,1223.51,3,North,Yes
+10584,20,Month-to-month,DSL,52.79,1027.0,2,West,Yes
+10585,2,Two year,Fiber optic,80.53,207.65,1,North,No
+10586,65,One year,DSL,45.86,3002.91,2,,No
+10587,38,Month-to-month,Fiber optic,79.82,3009.17,5,West,Yes
+10588,16,Month-to-month,DSL,48.18,831.04,2,North,Yes
+10589,14,Month-to-month,Fiber optic,79.78,1154.56,1,South,Yes
+10590,54,Month-to-month,Fiber optic,79.5,4260.13,2,West,Yes
+10591,15,Two year,Fiber optic,88.31,1318.53,1,North,No
+10592,16,Month-to-month,None,20.9,355.05,3,South,Yes
+10593,11,Month-to-month,Fiber optic,69.58,750.81,3,South,Yes
+10594,43,One year,DSL,33.36,1420.91,2,North,No
+10595,51,Month-to-month,None,12.82,655.38,1,South,No
+10596,22,Month-to-month,DSL,37.94,791.97,0,South,No
+10597,51,One year,DSL,48.32,2374.77,4,South,No
+10598,33,One year,Fiber optic,86.75,2872.37,1,West,No
+10599,11,Two year,DSL,53.52,509.19,0,North,No
+10600,63,One year,DSL,51.02,3174.69,1,South,No
+10601,11,Month-to-month,Fiber optic,93.58,958.46,5,North,Yes
+10602,23,One year,DSL,49.87,1081.01,3,West,No
+10603,22,Two year,None,23.68,537.96,0,East,No
+10604,20,One year,None,30.79,607.0,0,East,No
+10605,4,Two year,Fiber optic,92.36,359.09,3,North,No
+10606,72,One year,Fiber optic,88.01,6283.99,1,South,No
+10607,5,Two year,Fiber optic,95.17,449.61,0,North,No
+10608,65,Month-to-month,None,3.23,225.25,2,South,No
+10609,13,One year,DSL,42.68,552.71,0,West,No
+10610,17,Month-to-month,DSL,42.55,756.32,3,East,Yes
+10611,61,One year,Fiber optic,94.22,5786.11,3,North,No
+10612,36,One year,Fiber optic,97.57,3502.47,2,South,No
+10613,8,Two year,DSL,33.4,193.1,2,West,No
+10614,8,Two year,Fiber optic,96.29,740.05,2,North,No
+10615,32,Month-to-month,DSL,35.63,1136.2,5,West,No
+10616,11,One year,None,12.87,110.51,3,South,No
+10617,37,One year,DSL,43.13,1553.47,0,South,No
+10618,40,Month-to-month,DSL,42.45,1700.96,1,West,No
+10619,14,Month-to-month,DSL,32.53,552.67,5,East,Yes
+10620,18,Month-to-month,DSL,50.2,884.05,1,South,Yes
+10621,33,One year,DSL,50.44,1664.25,2,North,Yes
+10622,14,Month-to-month,DSL,53.43,695.57,0,North,No
+10623,28,Two year,DSL,41.53,1212.64,1,South,No
+10624,72,Month-to-month,DSL,44.68,3252.19,1,North,No
+10625,34,Two year,Fiber optic,84.76,2913.95,0,West,No
+10626,20,Month-to-month,Fiber optic,98.5,2024.47,1,North,No
+10627,72,One year,DSL,22.33,1590.38,2,East,No
+10628,45,Month-to-month,DSL,37.34,1668.4,2,West,Yes
+10629,11,One year,DSL,45.04,563.88,1,South,No
+10630,13,Two year,DSL,36.32,497.41,2,East,No
+10631,6,Two year,DSL,42.93,168.83,0,North,No
+10632,33,Two year,Fiber optic,83.99,2789.91,1,East,No
+10633,4,Month-to-month,None,16.74,43.69,2,West,No
+10634,72,Month-to-month,None,22.52,1657.06,3,West,No
+10635,22,Month-to-month,Fiber optic,90.03,1996.88,1,North,No
+10636,47,Month-to-month,Fiber optic,83.11,3836.54,2,South,Yes
+10637,20,One year,DSL,41.37,838.24,1,East,No
+10638,32,One year,Fiber optic,83.67,2685.99,1,West,No
+10639,24,One year,Fiber optic,84.94,2053.11,0,South,No
+10640,27,Two year,None,,241.11,0,West,No
+10641,57,One year,None,25.69,1524.31,2,North,No
+10642,72,Two year,Fiber optic,81.39,5876.78,1,East,No
+10643,71,Month-to-month,Fiber optic,95.09,6752.47,4,South,No
+10644,72,Month-to-month,None,26.73,1970.37,1,East,No
+10645,15,One year,DSL,54.36,905.12,0,East,Yes
+10646,34,Two year,None,13.91,509.61,1,South,No
+10647,15,Month-to-month,DSL,42.03,638.68,4,West,No
+10648,55,Month-to-month,None,12.06,680.62,0,West,Yes
+10649,12,One year,Fiber optic,79.36,962.54,2,West,Yes
+10650,57,Month-to-month,DSL,55.02,3136.7,4,North,No
+10651,30,Month-to-month,Fiber optic,96.9,2993.6,1,South,No
+10652,25,Two year,DSL,35.81,865.41,0,East,Yes
+10653,27,One year,Fiber optic,81.33,2242.21,1,West,No
+10654,10,Month-to-month,Fiber optic,84.39,838.87,2,South,No
+10655,11,Two year,Fiber optic,89.68,927.32,3,East,No
+10656,31,Month-to-month,None,7.92,238.03,1,East,No
+10657,30,Two year,DSL,32.18,943.41,3,North,No
+10658,16,Month-to-month,DSL,48.92,805.78,2,West,Yes
+10659,21,One year,Fiber optic,69.41,1461.21,0,South,No
+10660,36,Month-to-month,DSL,41.43,1450.44,2,East,Yes
+10661,14,Month-to-month,Fiber optic,86.3,1266.99,5,South,Yes
+10662,5,Two year,DSL,48.33,285.23,0,North,No
+10663,67,Month-to-month,Fiber optic,83.87,5682.48,3,South,Yes
+10664,32,Month-to-month,Fiber optic,82.07,2635.84,6,East,Yes
+10665,18,Month-to-month,None,28.76,516.19,4,South,No
+10666,15,One year,DSL,47.28,737.37,1,West,Yes
+10667,14,Two year,None,16.82,212.44,2,West,No
+10668,55,Two year,Fiber optic,85.3,4696.8,0,East,No
+10669,9,Month-to-month,DSL,48.07,425.56,4,West,Yes
+10670,34,Month-to-month,Fiber optic,98.75,3298.92,3,West,Yes
+10671,34,Month-to-month,Fiber optic,91.29,3108.98,0,East,No
+10672,44,One year,DSL,54.72,2389.89,1,West,No
+10673,20,Two year,Fiber optic,80.12,1592.6,2,East,No
+10674,63,One year,DSL,40.81,2585.36,1,West,No
+10675,45,One year,Fiber optic,83.12,3791.16,2,North,Yes
+10676,19,Month-to-month,Fiber optic,83.85,1559.23,4,South,No
+10677,15,Two year,Fiber optic,,1140.57,2,West,No
+10678,24,Month-to-month,None,32.13,740.46,4,South,Yes
+10679,19,Month-to-month,DSL,52.07,956.06,2,North,No
+10680,13,Month-to-month,None,19.55,230.43,1,West,Yes
+10681,28,Month-to-month,Fiber optic,90.13,2515.89,4,,Yes
+10682,21,Month-to-month,None,23.78,522.88,1,West,No
+10683,72,Month-to-month,None,27.76,2011.44,1,North,No
+10684,19,Month-to-month,DSL,34.25,608.39,2,North,Yes
+10685,15,One year,Fiber optic,83.83,1309.29,0,East,No
+10686,26,Month-to-month,DSL,44.54,1195.7,2,North,No
+10687,31,Month-to-month,None,26.99,800.62,2,East,Yes
+10688,33,Two year,Fiber optic,79.97,2688.06,0,South,No
+10689,33,One year,DSL,25.0,838.1,1,North,No
+10690,27,Month-to-month,None,13.35,354.09,0,West,No
+10691,26,Month-to-month,DSL,44.51,1171.63,0,North,No
+10692,40,Two year,Fiber optic,85.51,3419.41,0,West,No
+10693,12,Month-to-month,Fiber optic,98.47,1203.44,4,North,Yes
+10694,15,Month-to-month,DSL,49.66,752.42,5,East,Yes
+10695,7,Two year,Fiber optic,85.65,586.07,1,West,Yes
+10696,12,Month-to-month,None,21.74,179.86,6,North,Yes
+10697,52,One year,DSL,53.83,2820.43,0,West,No
+10698,39,One year,Fiber optic,80.28,3115.94,0,South,No
+10699,72,One year,DSL,43.88,3190.31,0,East,No
+10700,68,Month-to-month,Fiber optic,76.29,5206.71,3,West,No
+10701,39,Month-to-month,DSL,56.35,2183.79,2,North,Yes
+10702,29,Month-to-month,None,25.14,769.98,2,South,No
+10703,27,Month-to-month,None,16.34,449.37,1,West,No
+10704,3,Two year,DSL,44.08,138.8,1,North,No
+10705,25,Month-to-month,DSL,49.08,1221.41,2,North,No
+10706,17,One year,Fiber optic,82.99,1478.24,2,South,No
+10707,12,One year,Fiber optic,80.72,940.16,0,East,Yes
+10708,35,One year,Fiber optic,79.77,2778.9,0,,No
+10709,22,Month-to-month,DSL,47.71,1000.16,2,East,No
+10710,28,Month-to-month,DSL,42.14,1208.87,1,South,No
+10711,11,Two year,None,18.37,178.78,1,West,No
+10712,46,One year,Fiber optic,74.31,3399.53,0,North,No
+10713,18,Two year,None,22.62,386.5,1,West,No
+10714,33,Two year,Fiber optic,83.55,2759.67,1,South,No
+10715,20,One year,None,19.43,338.51,3,South,No
+10716,3,Month-to-month,DSL,46.59,50.04,3,West,Yes
+10717,36,One year,DSL,50.98,1853.73,3,East,Yes
+10718,24,Month-to-month,None,27.61,578.16,3,South,Yes
+10719,6,One year,None,26.42,192.7,1,South,No
+10720,10,Two year,DSL,43.07,493.09,1,South,No
+10721,47,Month-to-month,Fiber optic,80.46,3775.24,1,West,No
+10722,7,Month-to-month,Fiber optic,76.65,588.52,1,North,Yes
+10723,18,Month-to-month,Fiber optic,80.25,1443.62,3,North,Yes
+10724,72,Two year,DSL,45.16,3315.29,1,South,No
+10725,36,Month-to-month,None,15.71,547.3,0,South,No
+10726,43,Month-to-month,DSL,45.77,1873.45,3,West,No
+10727,21,Month-to-month,Fiber optic,77.28,1619.61,1,North,No
+10728,6,Month-to-month,DSL,,258.59,1,West,Yes
+10729,30,Month-to-month,DSL,51.56,1568.06,3,West,Yes
+10730,10,Month-to-month,Fiber optic,81.2,791.43,1,South,Yes
+10731,10,Month-to-month,DSL,38.3,396.19,1,West,Yes
+10732,27,Month-to-month,Fiber optic,76.25,2097.57,0,West,No
+10733,11,Month-to-month,DSL,48.38,528.8,1,West,No
+10734,25,Month-to-month,None,33.0,930.04,4,South,No
+10735,15,Month-to-month,Fiber optic,81.78,1205.93,2,South,Yes
+10736,25,One year,None,20.28,546.99,1,West,No
+10737,17,Month-to-month,DSL,53.57,941.22,4,South,Yes
+10738,25,Month-to-month,DSL,30.52,734.92,3,North,No
+10739,64,Month-to-month,Fiber optic,100.73,6430.06,2,East,No
+10740,43,Month-to-month,Fiber optic,104.55,4536.49,2,South,Yes
+10741,23,Month-to-month,DSL,23.35,542.83,5,,Yes
+10742,58,Month-to-month,DSL,44.22,2578.28,1,West,No
+10743,34,Two year,Fiber optic,79.25,2629.01,1,North,No
+10744,55,Month-to-month,DSL,42.88,2384.74,0,West,No
+10745,7,Month-to-month,Fiber optic,81.65,583.06,2,West,No
+10746,11,Month-to-month,DSL,51.49,563.88,5,West,Yes
+10747,30,Month-to-month,DSL,44.1,1337.42,5,South,Yes
+10748,23,Month-to-month,Fiber optic,77.71,1771.02,2,East,No
+10749,25,One year,Fiber optic,83.62,2066.89,2,West,Yes
+10750,38,Two year,DSL,49.12,1856.82,0,West,No
+10751,30,Month-to-month,Fiber optic,75.53,2247.34,1,South,No
+10752,46,Month-to-month,Fiber optic,71.83,3391.41,1,East,Yes
+10753,45,Month-to-month,Fiber optic,100.94,4578.86,3,South,No
+10754,12,Month-to-month,Fiber optic,79.86,919.59,1,South,No
+10755,3,One year,None,20.9,144.16,2,East,Yes
+10756,11,Month-to-month,Fiber optic,81.82,882.68,4,South,Yes
+10757,10,Month-to-month,None,26.38,265.03,3,North,Yes
+10758,27,Two year,Fiber optic,99.18,2713.82,0,East,No
+10759,26,Month-to-month,DSL,49.64,1211.83,1,South,No
+10760,22,Month-to-month,Fiber optic,72.85,1593.29,8,East,Yes
+10761,35,One year,Fiber optic,73.93,2564.51,1,South,No
+10762,72,Month-to-month,None,18.81,1362.4,3,,No
+10763,21,Month-to-month,Fiber optic,82.85,1754.74,1,West,No
+10764,30,Month-to-month,DSL,31.22,933.64,2,South,Yes
+10765,25,Two year,Fiber optic,91.55,2283.92,0,East,No
+10766,16,Month-to-month,DSL,36.31,623.56,2,North,Yes
+10767,38,Month-to-month,Fiber optic,96.95,3696.02,1,West,Yes
+10768,21,Month-to-month,Fiber optic,99.57,2092.52,2,North,Yes
+10769,13,Month-to-month,Fiber optic,83.01,1085.1,2,West,Yes
+10770,14,One year,None,25.51,430.6,1,West,No
+10771,47,Month-to-month,Fiber optic,75.14,3538.69,1,North,Yes
+10772,37,One year,Fiber optic,89.99,3309.03,0,North,No
+10773,17,One year,Fiber optic,81.01,1300.89,1,East,No
+10774,34,Two year,None,13.3,394.91,0,West,No
+10775,25,Month-to-month,None,19.69,473.45,1,East,No
+10776,31,Two year,DSL,41.27,1275.16,3,North,No
+10777,16,One year,Fiber optic,82.4,1296.15,1,East,No
+10778,11,Month-to-month,DSL,52.6,592.62,1,South,Yes
+10779,20,One year,None,15.72,291.61,1,West,No
+10780,12,Two year,Fiber optic,98.88,1149.98,0,West,No
+10781,12,Month-to-month,Fiber optic,74.4,917.3,1,West,Yes
+10782,8,Two year,DSL,57.92,518.16,2,South,No
+10783,3,Month-to-month,DSL,36.87,66.32,3,South,No
+10784,18,One year,Fiber optic,84.99,1539.6,0,West,No
+10785,53,Two year,DSL,41.08,2100.96,2,North,No
+10786,45,Month-to-month,DSL,42.25,1842.28,2,North,No
+10787,70,Two year,None,28.41,1965.21,0,North,No
+10788,11,Month-to-month,Fiber optic,97.0,1112.38,1,East,Yes
+10789,40,One year,DSL,54.52,2149.82,0,North,No
+10790,23,One year,DSL,41.76,927.86,2,East,No
+10791,14,Month-to-month,None,23.47,330.08,4,North,Yes
+10792,49,Month-to-month,Fiber optic,78.74,3859.91,3,West,Yes
+10793,23,Month-to-month,Fiber optic,77.07,1741.15,3,South,Yes
+10794,5,Month-to-month,DSL,35.83,258.6,3,North,Yes
+10795,44,Month-to-month,DSL,41.5,1815.36,0,East,No
+10796,33,Month-to-month,DSL,47.0,1555.44,2,South,No
+10797,28,Month-to-month,Fiber optic,69.71,1935.68,2,South,No
+10798,9,Month-to-month,DSL,44.63,419.26,2,East,Yes
+10799,30,One year,DSL,57.13,1763.24,1,West,No
+10800,64,One year,Fiber optic,93.98,6080.97,1,West,No
+10801,32,One year,None,17.32,523.7,2,South,No
+10802,7,Month-to-month,Fiber optic,73.83,560.81,0,West,Yes
+10803,34,Two year,Fiber optic,88.68,3037.06,0,North,No
+10804,32,One year,Fiber optic,66.46,2165.72,3,West,No
+10805,42,Month-to-month,Fiber optic,93.88,3939.34,2,West,No
+10806,32,Month-to-month,DSL,43.29,1377.84,2,East,No
+10807,12,One year,Fiber optic,99.65,1233.23,1,East,No
+10808,27,Month-to-month,Fiber optic,71.18,1960.16,2,East,No
+10809,21,Month-to-month,Fiber optic,92.35,2001.88,0,North,No
+10810,29,Two year,None,21.2,622.62,0,West,No
+10811,50,Month-to-month,None,19.35,963.3,2,East,No
+10812,15,Month-to-month,DSL,34.04,412.22,1,West,Yes
+10813,72,Two year,Fiber optic,89.77,6398.7,1,North,No
+10814,34,One year,DSL,50.41,1698.14,2,West,No
+10815,44,Month-to-month,Fiber optic,99.28,4324.32,3,South,Yes
+10816,40,Two year,DSL,53.06,2155.14,1,West,No
+10817,33,Two year,DSL,,1275.81,0,West,No
+10818,37,Month-to-month,Fiber optic,76.97,2827.8,2,West,Yes
+10819,1,One year,Fiber optic,74.05,55.57,1,West,Yes
+10820,40,Month-to-month,None,33.79,1399.62,0,North,Yes
+10821,12,Month-to-month,DSL,38.77,440.97,0,South,No
+10822,24,One year,DSL,56.84,1382.3,1,South,No
+10823,33,Month-to-month,Fiber optic,89.2,2951.45,4,East,No
+10824,52,One year,DSL,47.64,2513.37,0,,No
+10825,12,Two year,DSL,42.55,544.55,2,East,No
+10826,18,Month-to-month,None,27.29,489.8,2,East,No
+10827,20,One year,DSL,44.88,829.67,3,West,Yes
+10828,29,Month-to-month,DSL,42.05,1210.07,1,North,No
+10829,21,Two year,Fiber optic,90.57,1901.13,3,East,No
+10830,37,Month-to-month,Fiber optic,83.85,3113.82,2,East,No
+10831,5,One year,Fiber optic,78.61,363.56,2,North,Yes
+10832,23,One year,Fiber optic,89.8,2111.0,1,East,Yes
+10833,68,Month-to-month,None,21.49,1461.74,2,West,No
+10834,21,One year,DSL,48.91,990.32,0,West,No
+10835,34,One year,Fiber optic,,2748.22,0,West,No
+10836,47,One year,Fiber optic,75.33,3617.51,0,West,No
+10837,33,One year,None,35.88,1210.63,2,South,No
+10838,72,Two year,Fiber optic,97.37,7052.79,1,North,No
+10839,27,Month-to-month,Fiber optic,92.07,2444.23,1,West,Yes
+10840,38,Month-to-month,DSL,41.9,1564.55,1,South,Yes
+10841,30,Month-to-month,DSL,42.6,1250.67,1,East,No
+10842,60,One year,DSL,56.06,3370.89,1,North,No
+10843,19,Month-to-month,Fiber optic,82.17,1554.26,1,West,No
+10844,72,Month-to-month,DSL,39.94,2856.07,3,West,No
+10845,15,Month-to-month,Fiber optic,99.98,1485.11,3,West,Yes
+10846,72,Two year,DSL,44.62,3180.78,0,North,No
+10847,11,Month-to-month,None,36.15,390.43,1,West,No
+10848,39,One year,None,10.81,466.23,1,East,No
+10849,25,Month-to-month,DSL,49.15,1168.11,4,North,Yes
+10850,46,Two year,DSL,61.57,2846.02,2,East,No
+10851,34,Month-to-month,DSL,45.24,1593.3,0,South,No
+10852,44,Month-to-month,None,19.89,867.74,7,East,Yes
+10853,11,Two year,DSL,35.66,371.08,0,North,No
+10854,6,Two year,Fiber optic,93.66,598.92,1,East,Yes
+10855,9,Month-to-month,Fiber optic,78.84,670.18,4,East,Yes
+10856,9,Month-to-month,Fiber optic,84.24,757.27,1,East,Yes
+10857,11,One year,Fiber optic,75.12,784.77,2,West,Yes
+10858,16,Two year,Fiber optic,97.46,1484.48,0,East,Yes
+10859,16,Month-to-month,None,31.24,493.75,2,East,No
+10860,26,Month-to-month,DSL,44.75,1112.89,0,North,No
+10861,13,One year,None,,165.5,1,West,No
+10862,14,One year,DSL,57.29,846.62,1,South,Yes
+10863,22,One year,Fiber optic,82.07,1879.77,0,East,No
+10864,50,One year,None,13.16,661.66,0,East,No
+10865,18,Month-to-month,Fiber optic,70.9,1317.02,2,West,No
+10866,25,Two year,Fiber optic,79.83,2011.77,2,South,No
+10867,28,Two year,DSL,33.36,918.84,1,South,No
+10868,12,One year,Fiber optic,80.02,883.22,0,West,Yes
+10869,20,Month-to-month,Fiber optic,90.96,1884.17,2,East,Yes
+10870,15,Month-to-month,Fiber optic,82.0,1187.99,4,South,Yes
+10871,47,One year,Fiber optic,,4184.05,2,South,No
+10872,44,Month-to-month,DSL,39.21,1746.86,0,West,No
+10873,14,Two year,DSL,45.52,598.26,1,West,No
+10874,24,Month-to-month,DSL,60.37,1461.29,2,North,Yes
+10875,38,One year,Fiber optic,82.21,3209.38,3,South,No
+10876,32,Two year,DSL,48.08,1599.84,1,West,No
+10877,34,Month-to-month,None,9.48,301.67,1,North,Yes
+10878,12,Month-to-month,Fiber optic,97.16,1137.45,2,North,No
+10879,71,One year,DSL,41.18,2927.95,0,North,No
+10880,16,One year,Fiber optic,93.4,1487.85,1,East,No
+10881,16,Month-to-month,None,21.01,384.22,0,South,Yes
+10882,8,One year,DSL,49.89,428.72,1,South,No
+10883,23,Two year,DSL,50.37,1090.78,0,North,No
+10884,54,Month-to-month,DSL,41.38,2252.89,2,East,No
+10885,32,Month-to-month,DSL,53.74,1712.36,3,West,Yes
+10886,24,Month-to-month,Fiber optic,78.93,1895.76,2,North,Yes
+10887,42,Month-to-month,None,,1195.34,1,East,No
+10888,53,Month-to-month,DSL,41.88,2267.5,0,West,No
+10889,44,Month-to-month,Fiber optic,87.8,3902.16,6,East,Yes
+10890,5,One year,DSL,41.3,176.53,0,East,No
+10891,43,Month-to-month,Fiber optic,85.4,3669.85,1,North,No
+10892,35,Two year,Fiber optic,76.4,2656.14,1,West,No
+10893,14,Month-to-month,Fiber optic,86.98,1150.45,2,West,Yes
+10894,35,Month-to-month,DSL,45.35,1583.0,1,East,Yes
+10895,54,One year,Fiber optic,80.68,4430.44,1,West,No
+10896,16,Two year,None,21.56,276.47,1,East,No
+10897,47,Month-to-month,DSL,46.07,2164.42,0,East,No
+10898,32,Month-to-month,DSL,40.07,1279.97,1,West,No
+10899,1,Month-to-month,DSL,43.97,55.48,2,North,Yes
+10900,25,Month-to-month,Fiber optic,76.96,1885.38,3,North,Yes
+10901,31,Month-to-month,Fiber optic,103.77,3159.74,2,North,No
+10902,20,Month-to-month,Fiber optic,93.47,1814.32,3,East,Yes
+10903,33,Month-to-month,Fiber optic,87.18,2930.33,1,North,No
+10904,23,Month-to-month,None,31.38,682.36,2,South,No
+10905,72,Two year,None,6.17,423.97,0,South,No
+10906,19,One year,DSL,24.54,550.42,1,East,No
+10907,14,Month-to-month,Fiber optic,81.81,1115.91,5,East,Yes
+10908,45,Month-to-month,DSL,33.97,1542.41,6,North,No
+10909,21,Month-to-month,DSL,43.11,947.8,3,East,Yes
+10910,24,Month-to-month,None,23.65,608.11,4,South,No
+10911,23,One year,Fiber optic,92.36,2071.09,0,North,No
+10912,43,Two year,None,12.89,525.9,0,East,No
+10913,11,Two year,Fiber optic,88.2,982.26,1,South,Yes
+10914,46,Two year,Fiber optic,85.12,3992.46,1,South,No
+10915,37,Two year,Fiber optic,87.78,3217.4,0,West,No
+10916,72,Two year,DSL,40.84,2920.87,1,North,No
+10917,29,Month-to-month,DSL,56.07,1642.67,4,West,No
+10918,11,Month-to-month,Fiber optic,84.17,950.68,4,South,Yes
+10919,30,Month-to-month,DSL,59.19,1803.01,0,,No
+10920,32,One year,None,15.68,467.81,2,West,No
+10921,57,Month-to-month,DSL,50.94,2882.45,2,West,No
+10922,11,Two year,DSL,44.52,498.37,1,North,Yes
+10923,7,One year,Fiber optic,82.38,627.14,2,West,No
+10924,30,Month-to-month,DSL,50.06,1492.22,1,South,Yes
+10925,72,Month-to-month,None,19.61,1410.78,5,West,Yes
+10926,41,Month-to-month,Fiber optic,63.7,2570.84,2,West,No
+10927,42,Month-to-month,DSL,20.5,935.41,1,East,No
+10928,8,Two year,Fiber optic,95.18,767.61,2,West,No
+10929,27,One year,Fiber optic,94.84,2603.85,1,East,No
+10930,57,One year,Fiber optic,100.1,5706.82,0,North,No
+10931,33,Month-to-month,None,21.86,724.78,5,West,Yes
+10932,6,Month-to-month,Fiber optic,74.66,387.94,3,East,Yes
+10933,26,Month-to-month,Fiber optic,81.64,2036.7,2,North,No
+10934,39,One year,DSL,45.09,1808.64,1,North,No
+10935,24,One year,Fiber optic,76.94,1849.77,2,East,No
+10936,13,Month-to-month,None,35.19,465.71,2,West,No
+10937,46,Two year,Fiber optic,102.92,4684.17,0,East,No
+10938,19,Month-to-month,Fiber optic,88.83,1651.58,0,South,No
+10939,35,Two year,Fiber optic,84.91,3014.45,0,South,No
+10940,26,Month-to-month,Fiber optic,74.64,2010.25,1,South,No
+10941,18,Month-to-month,None,34.37,593.84,0,South,No
+10942,72,Two year,DSL,45.61,3310.81,1,South,No
+10943,17,Month-to-month,DSL,42.69,733.27,2,North,Yes
+10944,27,Month-to-month,Fiber optic,88.85,2394.11,3,East,Yes
+10945,26,Month-to-month,Fiber optic,80.31,2162.25,3,North,Yes
+10946,30,Month-to-month,Fiber optic,86.18,2567.12,0,North,No
+10947,72,One year,DSL,33.46,2458.77,1,South,No
+10948,39,Two year,Fiber optic,93.7,3669.43,0,West,No
+10949,18,Two year,Fiber optic,84.16,1514.29,2,East,No
+10950,66,Month-to-month,Fiber optic,94.27,6276.73,0,South,No
+10951,43,Month-to-month,Fiber optic,83.39,3597.41,4,East,Yes
+10952,18,Month-to-month,Fiber optic,83.91,1506.53,2,East,Yes
+10953,59,Month-to-month,Fiber optic,75.3,4497.96,3,South,No
+10954,8,Month-to-month,Fiber optic,91.08,778.59,1,West,Yes
+10955,10,Two year,Fiber optic,77.99,828.01,1,East,No
+10956,6,Two year,Fiber optic,81.11,331.14,0,North,No
+10957,3,One year,Fiber optic,85.01,272.63,4,West,No
+10958,56,Month-to-month,DSL,45.97,2582.79,3,North,No
+10959,30,Month-to-month,DSL,31.35,939.14,2,North,No
+10960,6,Month-to-month,Fiber optic,83.15,523.31,4,South,Yes
+10961,25,Month-to-month,None,28.36,719.47,1,South,No
+10962,47,Month-to-month,Fiber optic,81.97,3879.86,0,West,No
+10963,14,Month-to-month,DSL,43.2,594.11,0,East,No
+10964,20,Month-to-month,Fiber optic,86.3,1785.91,2,North,Yes
+10965,72,Two year,DSL,43.99,3198.6,0,South,No
+10966,22,Month-to-month,Fiber optic,76.76,1710.33,2,West,No
+10967,7,Two year,None,21.71,171.71,1,East,No
+10968,17,Month-to-month,Fiber optic,92.95,1626.49,1,East,Yes
+10969,6,One year,Fiber optic,76.59,500.41,2,East,No
+10970,41,Month-to-month,DSL,42.0,1717.66,3,East,No
+10971,13,Month-to-month,Fiber optic,73.95,1000.92,3,North,Yes
+10972,12,Month-to-month,None,29.53,361.33,1,East,No
+10973,72,Month-to-month,Fiber optic,84.26,6143.48,0,East,No
+10974,9,Two year,Fiber optic,78.2,747.69,1,North,No
+10975,8,Month-to-month,Fiber optic,85.74,660.88,4,East,Yes
+10976,11,One year,DSL,35.37,482.31,0,North,No
+10977,48,Month-to-month,DSL,36.73,1679.06,6,North,No
+10978,37,Month-to-month,DSL,33.32,1258.29,1,West,No
+10979,17,Month-to-month,Fiber optic,76.47,1272.07,0,South,No
+10980,16,Month-to-month,None,32.86,601.03,3,South,Yes
+10981,36,Two year,Fiber optic,79.14,2858.97,0,,No
+10982,31,Two year,DSL,48.73,1478.87,1,East,No
+10983,23,One year,DSL,38.31,870.46,1,East,No
+10984,38,Month-to-month,DSL,51.08,1912.34,2,West,No
+10985,10,Month-to-month,None,13.79,125.68,0,East,No
+10986,13,Two year,Fiber optic,85.31,1095.93,0,North,No
+10987,40,Month-to-month,Fiber optic,85.42,3386.87,1,North,No
+10988,32,Month-to-month,None,40.62,1310.72,1,South,No
+10989,27,Month-to-month,DSL,,1366.82,1,South,No
+10990,72,One year,Fiber optic,80.26,5738.64,4,South,No
+10991,44,One year,None,27.48,1142.81,1,North,No
+10992,17,One year,Fiber optic,102.11,1748.23,1,North,No
+10993,14,One year,DSL,31.96,468.76,1,North,No
+10994,34,Month-to-month,None,15.26,548.05,2,West,No
+10995,56,Two year,None,20.1,1147.92,0,South,No
+10996,5,Month-to-month,Fiber optic,81.66,471.23,2,,No
+10997,32,One year,Fiber optic,82.34,2674.7,0,South,No
+10998,20,Month-to-month,DSL,34.57,798.52,3,South,Yes
+10999,30,Two year,None,33.23,1120.98,1,South,No
+11000,7,Month-to-month,Fiber optic,73.62,445.01,1,West,No
+11001,56,Month-to-month,DSL,43.4,2342.42,2,East,No
+11002,66,Month-to-month,Fiber optic,,6161.9,5,North,No
+11003,42,Month-to-month,None,21.76,934.03,3,South,No
+11004,72,Month-to-month,None,14.16,1016.83,1,West,No
+11005,19,One year,DSL,34.21,678.14,2,North,No
+11006,31,Month-to-month,DSL,,1327.15,0,West,Yes
+11007,42,Two year,None,15.94,641.88,2,West,No
+11008,34,Month-to-month,None,23.64,782.11,3,North,No
+11009,21,One year,Fiber optic,73.79,1541.55,1,East,Yes
+11010,23,Month-to-month,Fiber optic,91.5,2138.34,3,East,No
+11011,63,One year,Fiber optic,85.92,5393.77,1,West,No
+11012,26,One year,Fiber optic,86.52,2237.93,0,West,No
+11013,54,Month-to-month,DSL,56.53,3075.35,5,North,Yes
+11014,25,Two year,DSL,41.5,1029.49,2,South,No
+11015,54,Month-to-month,DSL,39.19,2161.12,2,West,No
+11016,28,Month-to-month,None,17.62,456.52,2,South,No
+11017,40,One year,DSL,43.46,1692.94,0,North,No
+11018,15,Two year,DSL,44.27,676.27,0,East,No
+11019,31,Month-to-month,Fiber optic,78.35,2445.16,3,North,No
+11020,16,Month-to-month,DSL,28.82,426.45,1,North,No
+11021,19,Two year,DSL,40.51,823.48,0,West,No
+11022,20,One year,Fiber optic,87.88,1834.57,3,North,Yes
+11023,23,Two year,Fiber optic,86.09,1954.96,3,West,No
+11024,50,Month-to-month,Fiber optic,94.6,4789.31,4,North,No
+11025,18,One year,None,37.64,582.3,0,North,No
+11026,29,Month-to-month,DSL,51.07,1524.21,2,East,No
+11027,54,Two year,None,33.06,1750.94,2,North,No
+11028,39,Month-to-month,None,28.13,1136.28,4,South,No
+11029,5,One year,None,35.68,139.94,2,South,Yes
+11030,7,Month-to-month,Fiber optic,99.81,695.91,1,East,Yes
+11031,34,One year,Fiber optic,92.61,3116.31,0,South,Yes
+11032,18,One year,Fiber optic,90.65,1623.16,1,North,No
+11033,6,Month-to-month,Fiber optic,83.36,573.35,3,North,Yes
+11034,17,Two year,DSL,44.67,755.06,0,North,No
+11035,35,Month-to-month,None,19.3,759.82,3,,No
+11036,20,One year,Fiber optic,89.97,1783.97,0,East,No
+11037,27,Month-to-month,Fiber optic,79.24,2199.08,1,South,Yes
+11038,22,Month-to-month,Fiber optic,83.47,1771.34,2,North,Yes
+11039,15,Month-to-month,DSL,26.16,380.92,4,South,Yes
+11040,31,Month-to-month,Fiber optic,98.78,3040.88,1,East,No
+11041,6,Month-to-month,Fiber optic,83.24,560.93,5,South,Yes
+11042,13,One year,Fiber optic,88.64,1159.79,0,South,No
+11043,44,One year,DSL,56.66,2409.62,1,East,No
+11044,7,One year,DSL,47.4,279.41,2,East,No
+11045,26,Month-to-month,Fiber optic,96.55,2469.92,2,East,Yes
+11046,19,Month-to-month,Fiber optic,75.07,1463.62,2,South,No
+11047,18,Month-to-month,None,41.18,773.42,2,South,Yes
+11048,47,One year,DSL,,2511.74,0,West,No
+11049,53,Two year,DSL,46.67,2451.76,0,West,No
+11050,11,Month-to-month,DSL,56.4,649.06,3,North,Yes
+11051,23,One year,Fiber optic,75.65,1694.79,0,West,No
+11052,4,Month-to-month,Fiber optic,82.69,349.07,0,West,No
+11053,45,Month-to-month,Fiber optic,96.55,4359.83,2,West,No
+11054,25,Month-to-month,None,7.06,165.6,2,South,Yes
+11055,7,Month-to-month,DSL,49.48,362.29,1,East,No
+11056,14,One year,Fiber optic,89.26,1253.69,1,North,No
+11057,10,Two year,DSL,60.75,627.43,1,North,No
+11058,13,Month-to-month,DSL,32.34,367.01,2,East,No
+11059,5,Month-to-month,Fiber optic,97.88,513.97,2,North,Yes
+11060,62,One year,DSL,40.52,2553.57,2,North,No
+11061,11,Two year,Fiber optic,81.42,908.5,0,South,Yes
+11062,26,One year,Fiber optic,,1979.87,2,South,No
+11063,35,Month-to-month,Fiber optic,76.3,2666.0,1,North,No
+11064,53,One year,Fiber optic,88.23,4711.75,1,West,No
+11065,27,Month-to-month,Fiber optic,76.1,2057.35,0,East,Yes
+11066,21,Two year,Fiber optic,90.92,1863.45,0,West,No
+11067,28,Month-to-month,DSL,39.7,1144.3,3,West,Yes
+11068,11,One year,DSL,35.3,322.89,1,East,No
+11069,12,Month-to-month,Fiber optic,80.78,980.64,1,South,Yes
+11070,21,Month-to-month,None,24.69,503.2,4,West,Yes
+11071,3,Two year,DSL,42.78,110.42,1,East,Yes
+11072,15,One year,Fiber optic,85.27,1285.98,1,South,No
+11073,18,Month-to-month,Fiber optic,90.57,1601.88,1,South,Yes
+11074,72,Two year,None,30.66,2227.96,0,North,No
+11075,58,Two year,Fiber optic,82.52,4788.39,0,West,No
+11076,35,Month-to-month,Fiber optic,76.65,2657.93,4,West,Yes
+11077,46,Month-to-month,Fiber optic,85.61,3991.53,2,East,Yes
+11078,11,Month-to-month,None,25.77,291.61,2,North,Yes
+11079,28,One year,DSL,33.31,958.03,2,West,Yes
+11080,42,Month-to-month,None,14.88,681.42,1,North,No
+11081,12,Month-to-month,DSL,39.25,526.97,0,North,No
+11082,7,Two year,None,20.34,165.55,2,North,No
+11083,32,Two year,DSL,38.91,1233.07,2,,No
+11084,8,Two year,DSL,50.66,348.06,2,South,No
+11085,37,Two year,DSL,32.16,1198.15,2,West,No
+11086,53,One year,Fiber optic,72.36,3878.98,0,South,No
+11087,12,One year,DSL,42.33,522.12,0,West,No
+11088,13,One year,DSL,43.59,428.95,0,South,No
+11089,52,Month-to-month,Fiber optic,73.36,3849.67,4,East,No
+11090,27,Month-to-month,Fiber optic,80.15,2201.2,0,East,No
+11091,47,Month-to-month,Fiber optic,81.79,3832.16,3,West,No
+11092,21,One year,None,18.85,435.46,2,West,No
+11093,23,Month-to-month,Fiber optic,86.22,2008.06,0,West,No
+11094,26,Month-to-month,DSL,39.71,1004.97,5,West,Yes
+11095,72,One year,DSL,56.82,4142.09,2,North,No
+11096,45,Month-to-month,None,25.91,1115.05,2,North,No
+11097,15,Month-to-month,DSL,38.54,575.86,2,South,No
+11098,30,Two year,Fiber optic,85.76,2566.4,0,North,No
+11099,20,Two year,None,22.99,426.82,1,South,No
+11100,18,Month-to-month,None,31.72,583.07,3,East,No
+11101,36,Month-to-month,Fiber optic,80.2,2939.5,3,South,Yes
+11102,32,Month-to-month,Fiber optic,91.14,2966.35,3,North,Yes
+11103,12,One year,Fiber optic,85.33,1052.96,1,West,No
+11104,26,Two year,Fiber optic,96.93,2452.41,2,South,No
+11105,17,Month-to-month,DSL,55.33,887.12,1,West,No
+11106,35,One year,DSL,46.58,1636.8,2,East,No
+11107,17,Month-to-month,Fiber optic,82.9,1407.96,0,East,No
+11108,23,Month-to-month,DSL,49.05,1108.29,4,West,Yes
+11109,18,Two year,Fiber optic,83.56,1580.23,0,South,No
+11110,5,Month-to-month,Fiber optic,,496.45,2,North,Yes
+11111,70,Month-to-month,None,22.63,1605.64,4,West,No
+11112,26,Month-to-month,None,18.75,527.14,3,East,No
+11113,71,One year,Fiber optic,81.32,5776.14,1,South,No
+11114,27,Two year,Fiber optic,75.3,2136.63,0,East,No
+11115,41,Two year,DSL,49.45,1989.94,0,South,No
+11116,16,Month-to-month,Fiber optic,78.44,1230.8,3,West,Yes
+11117,16,Month-to-month,DSL,53.79,822.85,4,East,Yes
+11118,25,One year,None,11.66,353.92,1,South,No
+11119,71,Month-to-month,None,23.02,1666.36,4,East,Yes
+11120,12,Two year,None,31.2,352.66,0,,No
+11121,4,One year,None,,-15.43,1,South,No
+11122,51,Month-to-month,None,38.15,2000.85,6,West,No
+11123,43,Two year,DSL,41.6,1803.17,1,North,No
+11124,19,Month-to-month,None,23.13,495.86,3,North,No
+11125,72,Month-to-month,Fiber optic,89.57,6446.75,2,West,No
+11126,72,One year,Fiber optic,90.81,6558.71,1,East,No
+11127,5,Month-to-month,Fiber optic,87.19,447.96,4,North,Yes
+11128,15,One year,DSL,52.98,769.72,2,East,No
+11129,25,One year,DSL,49.15,1223.05,1,South,No
+11130,34,Two year,DSL,59.09,1961.59,0,South,No
+11131,31,Two year,DSL,49.18,1544.3,2,South,No
+11132,26,Month-to-month,Fiber optic,100.72,2649.09,4,South,No
+11133,11,Month-to-month,None,29.21,360.9,4,West,Yes
+11134,37,One year,Fiber optic,70.55,2637.16,4,South,No
+11135,39,Two year,Fiber optic,105.89,4124.54,2,South,No
+11136,48,Month-to-month,Fiber optic,80.41,3921.53,2,West,Yes
+11137,10,Month-to-month,Fiber optic,96.96,1005.34,2,East,Yes
+11138,22,Month-to-month,DSL,45.21,1050.26,3,North,No
+11139,18,Month-to-month,None,30.49,606.85,1,East,No
+11140,9,One year,DSL,39.49,350.41,3,East,Yes
+11141,22,Month-to-month,Fiber optic,90.01,1995.65,2,East,No
+11142,11,One year,Fiber optic,82.97,943.7,0,North,No
+11143,8,Two year,Fiber optic,97.63,735.09,0,South,No
+11144,43,Two year,None,25.51,1051.82,0,East,No
+11145,19,Month-to-month,DSL,52.49,945.29,4,East,No
+11146,15,Month-to-month,None,4.69,65.99,2,East,Yes
+11147,56,One year,Fiber optic,84.32,4708.33,1,West,No
+11148,39,Two year,Fiber optic,88.28,3385.67,4,East,Yes
+11149,4,Month-to-month,Fiber optic,86.79,353.13,6,South,Yes
+11150,34,Two year,None,29.69,1005.61,0,East,No
+11151,34,Month-to-month,None,19.07,695.76,1,South,No
+11152,21,Two year,Fiber optic,85.39,1873.72,1,South,No
+11153,21,Month-to-month,None,31.45,678.7,4,East,Yes
+11154,6,Month-to-month,Fiber optic,66.77,372.76,2,South,Yes
+11155,72,Month-to-month,Fiber optic,89.71,6485.33,5,East,No
+11156,22,Month-to-month,None,19.33,425.61,1,East,No
+11157,33,Month-to-month,Fiber optic,77.7,2554.54,2,West,Yes
+11158,23,Month-to-month,Fiber optic,87.69,1982.46,1,North,No
+11159,15,Month-to-month,DSL,54.82,803.73,1,South,Yes
+11160,45,One year,DSL,53.31,2391.98,0,West,No
+11161,29,Month-to-month,None,20.92,638.82,0,South,Yes
+11162,22,One year,Fiber optic,92.01,2044.57,0,East,No
+11163,33,Two year,Fiber optic,,3107.19,4,,No
+11164,24,Month-to-month,DSL,44.3,1090.2,2,West,Yes
+11165,72,Month-to-month,Fiber optic,79.46,5737.76,3,North,No
+11166,44,Two year,None,16.92,732.15,0,South,No
+11167,37,Two year,None,28.7,1020.51,1,South,No
+11168,7,Month-to-month,DSL,44.66,289.84,3,East,Yes
+11169,37,Two year,Fiber optic,76.63,2807.34,2,West,No
+11170,37,Month-to-month,Fiber optic,71.52,2543.84,3,North,Yes
+11171,11,Month-to-month,Fiber optic,91.65,967.86,1,North,Yes
+11172,7,One year,Fiber optic,80.63,628.47,1,West,Yes
+11173,43,Month-to-month,Fiber optic,87.64,3783.4,5,East,Yes
+11174,47,One year,Fiber optic,94.92,4446.07,0,East,No
+11175,16,Month-to-month,Fiber optic,74.53,1208.4,3,North,Yes
+11176,15,One year,Fiber optic,84.64,1191.45,0,East,No
+11177,29,Month-to-month,Fiber optic,83.63,2436.68,1,South,No
+11178,19,Month-to-month,None,25.04,526.82,2,East,No
+11179,6,Month-to-month,Fiber optic,94.91,564.64,2,North,Yes
+11180,11,Month-to-month,DSL,,307.13,1,South,Yes
+11181,32,One year,None,26.56,833.31,2,East,No
+11182,12,Month-to-month,None,30.25,414.2,3,East,No
+11183,48,Month-to-month,DSL,43.51,2098.78,4,West,No
+11184,36,Month-to-month,Fiber optic,83.9,2963.68,0,West,Yes
+11185,33,Month-to-month,DSL,48.35,1690.18,3,North,No
+11186,28,Two year,Fiber optic,87.76,2407.09,1,North,No
+11187,14,Month-to-month,DSL,49.66,685.51,1,South,No
+11188,40,Two year,Fiber optic,89.49,3538.11,0,West,Yes
+11189,14,Month-to-month,DSL,37.14,478.58,2,South,Yes
+11190,50,One year,Fiber optic,92.92,4628.02,0,West,No
+11191,67,Month-to-month,None,31.33,2124.84,1,North,No
+11192,29,Month-to-month,Fiber optic,86.49,2559.79,2,West,Yes
+11193,61,Two year,None,10.05,597.41,0,North,No
+11194,11,Two year,None,21.08,191.5,0,West,No
+11195,37,Two year,None,23.56,890.69,1,West,No
+11196,26,Month-to-month,DSL,35.84,952.24,3,South,No
+11197,44,Month-to-month,None,19.12,850.85,0,South,Yes
+11198,4,One year,DSL,33.73,145.93,2,East,Yes
+11199,42,Month-to-month,Fiber optic,89.86,3769.55,2,East,No
+11200,16,One year,None,23.33,377.17,0,North,No
+11201,27,One year,Fiber optic,71.83,1932.24,1,North,No
+11202,72,One year,Fiber optic,87.81,6365.25,2,West,No
+11203,38,Two year,Fiber optic,84.55,3301.96,1,West,No
+11204,34,One year,None,26.13,895.65,1,North,No
+11205,32,Month-to-month,Fiber optic,81.87,2619.5,2,West,No
+11206,53,Month-to-month,Fiber optic,78.59,4175.41,0,West,No
+11207,44,One year,None,15.83,670.35,0,West,No
+11208,33,Month-to-month,DSL,40.69,1373.52,1,North,Yes
+11209,30,Month-to-month,DSL,45.15,1372.17,3,East,Yes
+11210,29,Month-to-month,Fiber optic,86.18,2482.51,3,North,Yes
+11211,25,One year,None,20.47,547.94,0,North,No
+11212,9,Two year,DSL,41.61,375.28,2,North,No
+11213,37,One year,DSL,42.19,1522.18,1,South,No
+11214,17,Month-to-month,DSL,65.06,1120.11,4,East,Yes
+11215,22,Month-to-month,None,15.83,357.83,3,North,Yes
+11216,47,Month-to-month,DSL,40.54,1943.62,1,North,No
+11217,25,Month-to-month,Fiber optic,111.35,2817.03,2,South,Yes
+11218,24,One year,None,25.37,604.47,0,North,No
+11219,29,One year,DSL,33.96,965.96,2,West,No
+11220,20,Month-to-month,Fiber optic,91.74,1834.9,2,North,No
+11221,72,Month-to-month,Fiber optic,77.72,5610.35,3,South,No
+11222,72,Month-to-month,None,29.27,2126.97,2,South,No
+11223,72,Two year,Fiber optic,83.31,6010.54,4,North,No
+11224,32,One year,Fiber optic,81.48,2603.78,2,West,Yes
+11225,16,Month-to-month,DSL,57.87,965.85,0,North,Yes
+11226,47,Two year,Fiber optic,89.53,4180.99,0,South,No
+11227,21,Month-to-month,Fiber optic,92.78,2047.64,2,East,Yes
+11228,50,Month-to-month,DSL,48.48,2454.49,4,South,Yes
+11229,15,Two year,Fiber optic,81.44,1176.57,0,South,No
+11230,34,Month-to-month,None,26.89,921.7,1,North,Yes
+11231,55,Month-to-month,DSL,54.67,3037.96,2,South,No
+11232,21,One year,DSL,46.08,953.66,0,North,No
+11233,21,Month-to-month,Fiber optic,99.41,2027.87,1,South,Yes
+11234,7,One year,DSL,51.8,321.06,3,South,No
+11235,16,Month-to-month,DSL,,768.82,5,South,Yes
+11236,32,Month-to-month,Fiber optic,87.01,2714.2,1,North,Yes
+11237,35,Month-to-month,DSL,,1555.45,3,West,No
+11238,39,Month-to-month,Fiber optic,74.99,2946.09,1,North,Yes
+11239,5,Month-to-month,Fiber optic,84.28,412.5,4,North,Yes
+11240,21,Month-to-month,Fiber optic,86.77,1794.33,4,North,Yes
+11241,8,Two year,DSL,41.67,313.58,2,West,No
+11242,31,Month-to-month,None,24.7,706.91,6,South,No
+11243,6,Month-to-month,DSL,45.17,290.4,3,South,Yes
+11244,10,Month-to-month,Fiber optic,91.19,879.63,3,West,Yes
+11245,44,Month-to-month,Fiber optic,90.3,3951.99,6,North,Yes
+11246,17,Month-to-month,Fiber optic,86.34,1481.6,3,North,No
+11247,62,One year,DSL,34.06,2101.6,0,North,No
+11248,40,Month-to-month,DSL,59.33,2344.85,4,East,Yes
+11249,21,Two year,Fiber optic,83.86,1681.58,2,West,No
+11250,49,Two year,DSL,44.35,2187.99,1,East,No
+11251,23,Month-to-month,DSL,42.26,975.14,1,West,Yes
+11252,42,Month-to-month,Fiber optic,81.09,3385.2,2,West,Yes
+11253,15,Month-to-month,None,34.35,473.79,1,South,No
+11254,50,One year,DSL,56.09,2804.93,0,North,No
+11255,7,Month-to-month,None,25.56,198.1,2,North,No
+11256,10,Two year,Fiber optic,84.14,845.31,1,West,No
+11257,12,One year,None,26.95,388.96,3,East,Yes
+11258,16,Two year,Fiber optic,85.59,1397.64,0,West,No
+11259,33,Month-to-month,Fiber optic,83.48,2750.49,4,East,Yes
+11260,26,Two year,Fiber optic,87.7,2309.86,2,West,No
+11261,43,Month-to-month,Fiber optic,81.47,3505.19,3,West,Yes
+11262,55,Month-to-month,None,24.02,1322.8,4,West,No
+11263,6,Month-to-month,DSL,46.63,331.66,4,West,Yes
+11264,60,Two year,DSL,49.82,2953.49,1,North,No
+11265,22,One year,DSL,40.05,881.96,0,East,No
+11266,72,Two year,None,27.68,2040.63,1,West,No
+11267,15,Month-to-month,Fiber optic,77.75,1178.6,5,South,Yes
+11268,4,Two year,Fiber optic,80.42,306.92,3,West,No
+11269,40,Month-to-month,None,17.77,642.5,4,South,Yes
+11270,38,Month-to-month,None,13.42,419.28,3,North,No
+11271,11,Two year,DSL,53.13,667.43,1,East,No
+11272,12,Month-to-month,Fiber optic,77.25,939.31,3,North,Yes
+11273,45,Month-to-month,None,16.41,715.03,3,South,No
+11274,34,One year,DSL,55.04,1885.45,0,West,No
+11275,21,Month-to-month,Fiber optic,80.44,1651.24,3,North,Yes
+11276,36,Month-to-month,Fiber optic,83.49,2992.57,2,North,No
+11277,32,Month-to-month,Fiber optic,76.9,2423.28,1,West,Yes
+11278,13,Month-to-month,Fiber optic,91.66,1135.1,2,West,No
+11279,47,Two year,DSL,51.77,2349.17,0,South,No
+11280,41,One year,DSL,50.91,2023.47,0,South,No
+11281,26,Month-to-month,DSL,49.3,1322.66,3,West,Yes
+11282,45,Month-to-month,DSL,45.59,2012.02,2,East,Yes
+11283,72,Month-to-month,Fiber optic,80.8,5839.35,3,West,No
+11284,11,One year,Fiber optic,78.48,901.55,0,North,No
+11285,22,Two year,DSL,55.32,1217.69,1,East,No
+11286,22,Two year,Fiber optic,91.12,1992.66,2,East,No
+11287,44,Month-to-month,Fiber optic,79.45,3501.28,2,North,Yes
+11288,16,Month-to-month,Fiber optic,85.32,1348.43,6,East,Yes
+11289,43,Month-to-month,None,19.6,890.92,2,North,No
+11290,18,One year,Fiber optic,75.97,1442.6,1,West,No
+11291,10,Month-to-month,None,23.42,292.2,1,East,Yes
+11292,28,One year,DSL,41.68,1080.87,2,North,No
+11293,17,One year,Fiber optic,77.38,1297.97,2,East,No
+11294,30,Month-to-month,None,10.17,305.17,2,North,No
+11295,35,Month-to-month,None,9.49,350.66,2,West,No
+11296,6,Month-to-month,Fiber optic,82.03,423.08,1,North,No
+11297,19,Month-to-month,Fiber optic,84.32,1532.33,3,East,No
+11298,28,Month-to-month,Fiber optic,78.0,2236.2,2,North,No
+11299,45,One year,Fiber optic,90.21,4036.9,2,North,Yes
+11300,41,Month-to-month,Fiber optic,84.48,3404.0,0,West,No
+11301,14,Month-to-month,None,26.62,328.47,2,South,No
+11302,23,One year,Fiber optic,83.54,1936.96,0,North,No
+11303,36,One year,DSL,38.7,1360.41,0,East,No
+11304,22,Month-to-month,Fiber optic,85.91,1899.75,2,North,Yes
+11305,15,Two year,DSL,34.9,484.33,0,East,No
+11306,25,Two year,DSL,49.32,1163.12,5,West,No
+11307,34,One year,DSL,37.5,1332.07,0,East,No
+11308,12,One year,Fiber optic,92.35,1124.08,0,North,No
+11309,38,Month-to-month,DSL,42.29,1593.76,2,North,Yes
+11310,29,Two year,DSL,53.5,1530.65,0,North,No
+11311,39,Month-to-month,DSL,36.02,1463.34,1,East,No
+11312,25,Two year,None,16.58,438.11,0,East,No
+11313,72,One year,Fiber optic,,6385.29,0,East,No
+11314,33,Month-to-month,DSL,54.36,1770.66,1,South,No
+11315,42,Month-to-month,DSL,58.33,2452.01,1,,No
+11316,38,One year,Fiber optic,85.33,3258.66,1,West,No
+11317,23,One year,DSL,59.7,1351.14,0,East,No
+11318,31,Month-to-month,Fiber optic,82.68,2559.34,3,East,Yes
+11319,17,One year,Fiber optic,93.79,1571.09,0,,No
+11320,71,Two year,None,14.46,1042.8,1,South,No
+11321,36,Month-to-month,DSL,48.36,1688.16,3,South,No
+11322,14,Month-to-month,Fiber optic,66.27,950.61,3,East,Yes
+11323,61,Month-to-month,DSL,36.03,2210.09,5,West,Yes
+11324,24,One year,None,25.73,609.47,3,West,No
+11325,46,Month-to-month,None,11.5,547.0,0,East,No
+11326,6,Two year,Fiber optic,88.42,515.9,2,South,No
+11327,54,Month-to-month,Fiber optic,92.25,4954.78,3,South,No
+11328,35,One year,DSL,40.99,1456.38,0,East,No
+11329,13,Month-to-month,None,14.25,208.71,1,South,No
+11330,34,Month-to-month,Fiber optic,81.21,2740.73,4,South,Yes
+11331,67,One year,DSL,37.27,2473.6,0,West,No
+11332,17,Month-to-month,Fiber optic,84.19,1423.92,1,East,Yes
+11333,17,Month-to-month,Fiber optic,85.82,1436.8,1,South,No
+11334,23,Two year,None,19.55,510.7,1,,No
+11335,27,Two year,Fiber optic,98.39,2669.32,0,South,No
+11336,48,Two year,Fiber optic,79.24,3804.33,0,North,No
+11337,36,Month-to-month,Fiber optic,96.13,3423.42,3,West,Yes
+11338,23,One year,DSL,36.67,872.97,2,South,No
+11339,32,Two year,Fiber optic,85.58,2714.17,0,South,No
+11340,72,Month-to-month,DSL,54.46,3895.36,1,North,No
+11341,40,Month-to-month,Fiber optic,94.05,3792.94,4,West,Yes
+11342,24,Two year,Fiber optic,81.64,1974.8,1,East,No
+11343,22,Month-to-month,Fiber optic,89.44,1867.55,1,South,Yes
+11344,31,One year,DSL,48.37,1493.14,0,East,No
+11345,48,Two year,DSL,40.68,1957.68,0,South,No
+11346,15,One year,Fiber optic,89.93,1335.33,2,South,Yes
+11347,44,Month-to-month,DSL,59.9,2642.01,0,South,No
+11348,24,Month-to-month,DSL,48.77,1098.18,1,North,No
+11349,27,Month-to-month,Fiber optic,89.53,2304.09,5,West,No
+11350,72,Month-to-month,Fiber optic,90.38,6468.14,1,West,No
+11351,41,One year,Fiber optic,73.31,3017.09,0,West,No
+11352,18,Two year,Fiber optic,88.68,1467.27,1,South,No
+11353,35,Month-to-month,None,13.87,451.57,2,West,No
+11354,50,Month-to-month,DSL,40.28,1937.13,2,South,No
+11355,41,Two year,Fiber optic,102.3,4184.41,1,West,No
+11356,4,Month-to-month,None,19.97,158.21,1,North,No
+11357,26,Month-to-month,Fiber optic,79.08,2047.36,1,South,No
+11358,36,Month-to-month,Fiber optic,94.22,3387.64,1,East,No
+11359,34,One year,Fiber optic,77.42,2665.8,1,West,No
+11360,19,Month-to-month,Fiber optic,81.42,1547.84,3,South,No
+11361,42,One year,Fiber optic,94.99,3981.08,0,,No
+11362,54,Month-to-month,Fiber optic,85.34,4645.54,1,West,Yes
+11363,7,One year,DSL,32.51,246.43,1,South,Yes
+11364,6,Month-to-month,DSL,49.35,307.66,1,East,Yes
+11365,34,Month-to-month,Fiber optic,81.83,2776.61,2,South,Yes
+11366,44,Month-to-month,DSL,57.32,2508.19,0,North,No
+11367,17,Month-to-month,Fiber optic,80.15,1399.25,1,,No
+11368,4,Month-to-month,Fiber optic,93.41,360.18,1,East,No
+11369,26,Month-to-month,None,36.21,990.6,1,North,Yes
+11370,34,Month-to-month,DSL,38.19,1256.66,2,North,Yes
+11371,21,Month-to-month,Fiber optic,83.45,1809.89,4,West,Yes
+11372,50,Two year,Fiber optic,88.11,4424.33,0,North,No
+11373,33,Month-to-month,DSL,38.14,1219.92,2,North,Yes
+11374,16,Two year,DSL,47.16,774.96,1,East,No
+11375,17,Two year,DSL,43.2,708.4,4,East,No
+11376,27,Month-to-month,DSL,43.04,1163.4,6,North,Yes
+11377,20,One year,DSL,45.39,888.37,1,North,No
+11378,6,Two year,Fiber optic,85.57,508.1,0,West,No
+11379,31,One year,Fiber optic,86.31,2713.3,1,East,No
+11380,17,Month-to-month,DSL,40.21,704.3,1,East,No
+11381,20,Month-to-month,DSL,40.56,766.16,0,North,No
+11382,11,Month-to-month,DSL,44.05,441.84,1,North,Yes
+11383,68,Month-to-month,Fiber optic,84.64,5766.48,0,North,No
+11384,39,Two year,DSL,41.49,1631.81,1,West,No
+11385,72,Two year,Fiber optic,87.59,6279.61,0,West,No
+11386,21,Month-to-month,DSL,30.48,703.77,3,East,Yes
+11387,41,One year,DSL,39.16,1637.95,0,East,No
+11388,31,Month-to-month,None,19.76,587.55,1,North,Yes
+11389,16,Two year,DSL,38.15,581.53,4,West,No
+11390,21,Month-to-month,DSL,58.03,1209.59,1,East,Yes
+11391,39,Two year,DSL,45.15,1747.61,0,East,No
+11392,11,Two year,None,23.41,307.8,0,West,No
+11393,51,Month-to-month,Fiber optic,81.13,4177.22,2,North,No
+11394,29,Month-to-month,Fiber optic,84.87,2462.74,2,South,Yes
+11395,46,Two year,None,12.28,591.9,0,North,No
+11396,34,Month-to-month,DSL,43.64,1516.73,3,South,No
+11397,7,Month-to-month,None,14.5,103.86,2,South,No
+11398,26,Two year,DSL,,1128.4,1,South,No
+11399,51,One year,Fiber optic,64.52,3314.32,0,East,No
+11400,29,Month-to-month,Fiber optic,75.98,2222.81,1,South,No
+11401,26,Month-to-month,Fiber optic,96.71,2483.34,2,North,Yes
+11402,29,Month-to-month,None,28.64,803.54,0,North,No
+11403,5,Two year,DSL,55.55,266.22,2,East,No
+11404,55,Month-to-month,None,33.1,1792.33,3,East,No
+11405,3,Month-to-month,Fiber optic,90.38,212.23,3,West,Yes
+11406,62,Month-to-month,Fiber optic,81.38,5072.42,1,West,No
+11407,20,Two year,None,13.7,287.9,1,North,No
+11408,36,Month-to-month,DSL,54.17,1896.69,0,East,No
+11409,5,Two year,None,22.52,102.95,1,North,No
+11410,44,One year,Fiber optic,104.95,4610.52,1,North,No
+11411,39,Two year,Fiber optic,82.08,3208.37,1,West,No
+11412,37,Two year,DSL,60.78,2205.7,1,South,No
+11413,4,Two year,Fiber optic,83.75,280.82,0,West,No
+11414,14,Two year,Fiber optic,95.69,1360.43,0,North,No
+11415,34,Month-to-month,Fiber optic,98.57,3290.14,1,East,No
+11416,54,One year,DSL,36.82,1978.78,0,,No
+11417,13,Month-to-month,DSL,41.12,521.52,1,West,No
+11418,13,Month-to-month,None,13.74,173.64,4,East,Yes
+11419,33,Two year,DSL,35.16,1170.4,2,West,No
+11420,72,Two year,Fiber optic,90.34,6568.17,3,South,No
+11421,16,One year,None,20.43,262.85,0,West,No
+11422,20,Month-to-month,DSL,45.42,943.44,3,West,Yes
+11423,18,Month-to-month,DSL,49.45,789.61,1,West,Yes
+11424,24,Month-to-month,Fiber optic,70.14,1739.13,1,South,Yes
+11425,57,Month-to-month,DSL,55.29,3070.05,6,West,Yes
+11426,25,Month-to-month,Fiber optic,82.21,2152.64,2,East,Yes
+11427,72,Month-to-month,Fiber optic,89.26,6411.07,1,North,Yes
+11428,28,Month-to-month,Fiber optic,89.97,2570.65,0,West,Yes
+11429,60,One year,Fiber optic,95.97,5801.35,2,North,Yes
+11430,21,Month-to-month,Fiber optic,84.16,1749.92,0,East,No
+11431,9,Two year,Fiber optic,68.01,597.71,1,North,No
+11432,25,One year,DSL,45.46,1102.94,0,West,No
+11433,38,Month-to-month,Fiber optic,86.61,3322.51,4,East,Yes
+11434,15,Month-to-month,None,13.73,188.95,3,West,No
+11435,54,Month-to-month,Fiber optic,86.18,4620.96,1,East,No
+11436,19,Two year,Fiber optic,82.11,1581.62,0,East,No
+11437,11,Month-to-month,DSL,34.26,340.95,1,West,Yes
+11438,72,Month-to-month,DSL,50.37,3613.62,3,South,No
+11439,14,Two year,DSL,40.49,571.15,2,East,No
+11440,18,Two year,DSL,41.75,725.78,0,South,No
+11441,42,Month-to-month,None,18.3,748.91,1,North,No
+11442,21,Month-to-month,DSL,54.88,1213.96,1,West,No
+11443,12,Month-to-month,None,21.67,251.9,1,South,No
+11444,17,Month-to-month,DSL,45.63,761.37,3,North,Yes
+11445,72,Month-to-month,DSL,41.47,2979.19,3,West,No
+11446,39,One year,Fiber optic,88.7,3477.59,2,West,No
+11447,44,Two year,DSL,55.79,2413.61,0,East,No
+11448,32,Month-to-month,Fiber optic,90.18,2902.94,0,South,No
+11449,35,One year,None,27.49,972.56,0,West,No
+11450,19,Month-to-month,None,26.85,438.6,0,East,Yes
+11451,29,Two year,DSL,33.96,1056.55,0,South,Yes
+11452,4,One year,Fiber optic,77.99,370.4,0,South,No
+11453,49,Two year,DSL,43.36,2092.62,3,West,No
+11454,19,Two year,None,16.19,262.77,1,West,No
+11455,10,Month-to-month,Fiber optic,76.48,773.96,2,East,Yes
+11456,30,Month-to-month,DSL,30.02,843.64,4,North,No
+11457,23,Month-to-month,DSL,34.23,841.81,0,North,No
+11458,48,Month-to-month,DSL,42.95,2042.76,0,South,No
+11459,25,Two year,DSL,44.44,1175.99,0,East,No
+11460,17,Month-to-month,None,15.66,233.17,2,West,Yes
+11461,26,One year,Fiber optic,85.63,2221.93,2,West,No
+11462,64,Month-to-month,None,18.53,1236.57,3,South,No
+11463,49,Month-to-month,DSL,53.72,2619.58,3,North,Yes
+11464,39,Month-to-month,Fiber optic,83.71,3275.46,2,South,No
+11465,51,One year,DSL,50.57,2622.81,2,North,No
+11466,41,One year,Fiber optic,86.63,3529.41,0,West,No
+11467,13,Month-to-month,DSL,33.78,388.72,3,North,Yes
+11468,44,Month-to-month,DSL,44.27,1889.74,2,West,Yes
+11469,54,One year,Fiber optic,75.12,4079.55,1,East,Yes
+11470,56,Month-to-month,DSL,44.14,2487.11,2,North,No
+11471,11,Two year,Fiber optic,79.04,911.9,2,East,No
+11472,18,Month-to-month,Fiber optic,88.06,1574.04,1,East,No
+11473,16,Month-to-month,DSL,34.26,490.95,0,North,No
+11474,21,Month-to-month,None,22.12,370.36,1,North,No
+11475,36,Month-to-month,Fiber optic,89.58,3339.57,2,South,Yes
+11476,30,Month-to-month,None,,898.9,3,North,No
+11477,30,Month-to-month,Fiber optic,78.89,2372.07,3,East,Yes
+11478,9,Two year,Fiber optic,85.14,777.42,1,East,No
+11479,18,Month-to-month,Fiber optic,86.47,1499.26,2,North,Yes
+11480,59,Month-to-month,None,34.38,1996.45,2,North,No
+11481,54,Month-to-month,Fiber optic,73.15,4019.8,2,East,No
+11482,25,Month-to-month,DSL,37.71,969.11,5,South,Yes
+11483,44,One year,DSL,67.44,2936.63,0,South,No
+11484,34,Month-to-month,Fiber optic,82.82,2766.64,1,South,No
+11485,47,One year,DSL,29.87,1383.36,1,North,No
+11486,45,Month-to-month,DSL,40.34,1802.66,4,West,No
+11487,27,Two year,DSL,22.85,698.89,2,West,No
+11488,39,Month-to-month,Fiber optic,86.93,3382.64,1,East,No
+11489,35,Two year,DSL,51.48,1754.16,2,South,No
+11490,27,Month-to-month,Fiber optic,77.71,2095.74,2,North,Yes
+11491,23,Month-to-month,Fiber optic,81.23,1878.96,4,South,Yes
+11492,72,Two year,None,29.39,2064.8,0,West,No
+11493,27,One year,DSL,31.0,853.04,1,North,No
+11494,42,One year,Fiber optic,74.43,3174.31,2,West,No
+11495,71,Month-to-month,Fiber optic,83.18,5910.98,1,South,Yes
+11496,39,One year,Fiber optic,78.98,3048.39,1,South,No
+11497,38,Two year,Fiber optic,82.65,3119.51,0,West,No
+11498,27,One year,DSL,34.89,875.68,1,West,No
+11499,36,Month-to-month,None,23.71,848.37,2,West,No
+11500,22,One year,DSL,43.81,976.17,0,South,No
+10101,10,Two year,None,20.83,195.56,0,East,No
+10102,52,One year,DSL,49.91,2577.59,0,West,No
+10103,72,Month-to-month,Fiber optic,74.31,5380.72,1,North,No
+10104,72,Two year,None,25.99,1800.38,4,East,No
+10105,31,One year,DSL,45.71,1480.05,0,East,No
+10106,34,One year,DSL,39.85,1360.32,0,East,Yes
+10107,24,Month-to-month,None,28.84,716.5,1,North,Yes
+10108,31,Month-to-month,DSL,27.38,877.84,1,North,No
+10109,12,Month-to-month,Fiber optic,87.77,1024.96,2,East,No
+10110,24,Two year,Fiber optic,97.96,2314.36,2,North,No
+10111,14,Month-to-month,DSL,56.52,749.98,1,East,Yes
+10112,21,Month-to-month,Fiber optic,88.12,1840.6,2,North,No

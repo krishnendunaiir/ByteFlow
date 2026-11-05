@@ -1,0 +1,31 @@
+# Secrets: never commit these
+.env
+.streamlit/secrets.toml
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated charts and reports (keep the folder itself via .gitkeep)
+outputs/*
+!outputs/.gitkeep
+# Additional local development files
+.venv-1/
+.agents/
+.claude/
+.vscode/
+tests_duplicate_backup/
+app_backup_incomplete.py
+requirements.zip
+requirements/
+__pycache__/
+
+# Local API request data
+request.json
+
+# Duplicate backup folders
+agents/agents/
+tools/tools/
+utils/utils/
