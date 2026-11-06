@@ -75,8 +75,17 @@ def test_full_analysis_through_the_ui(monkeypatch, tmp_path, sample_df):
     result = at.session_state["result"]
     assert result["status"] == "done" and result["ml_results"]["task"] == "classification"
     assert "Automated Data Analysis Report" in all_text(at)
-    assert [t.label for t in at.tabs] == ["Preview (first 50 rows)", "Column information", "Report", "Data quality",
-                                          "Statistics", "Machine learning", "Charts", "Workflow log"]
+    assert [t.label for t in at.tabs] == [
+    "Preview (first 50 rows)",
+    "Column information",
+    "Report",
+    "Data quality",
+    "Statistics",
+    "Machine learning",
+    "Charts",
+    "Workflow log",
+    "Export Analysis",
+]
     assert {d.label for d in at.download_button} >= {"Download report (.md)", "Download all charts (.zip)"}
     assert (settings.outputs_dir / at.session_state["sid"]).is_dir()
 

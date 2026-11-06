@@ -32,7 +32,13 @@ from utils.security import (
     session_output_dir,
 )
 from utils.validation import validate_and_load_upload, validate_question
-
+from tools.export_generation import (
+    build_csv_bytes,
+    build_docx_bytes,
+    build_pdf_bytes,
+    build_pptx_bytes,
+    build_xlsx_bytes,
+)
 
 logger = get_logger("app")
 
@@ -757,6 +763,93 @@ def render_charts(result) -> None:
         mime="application/zip",
     )
 
+def render_exports(result) -> None:
+    """Allow users to select one export format."""
+
+    st.markdown("### Export your analysis")
+    st.caption("Choose a format to download your completed analysis.")
+
+    formats = {
+        "PDF (.pdf)": "pdf",
+        "Word (.docx)": "docx",
+        "PowerPoint (.pptx)": "pptx",
+        "Excel (.xlsx)": "xlsx",
+        "CSV (.csv)": "csv",
+        "Markdown (.md)": "md",
+    }
+
+    selected = st.selectbox(
+        "Choose file format",
+        list(formats.keys()),
+        key="export_format",
+    )
+
+    export_type = formats[selected]
+
+    try:
+        chart_images = []
+
+        if export_type in ("pdf", "docx", "pptx"):
+            try:
+                session_dir = session_output_dir(
+                    get_settings().outputs_dir,
+                    result["session_id"],
+                    create=False,
+                )
+
+                for chart in result.get("charts", []):
+                    try:
+                        data = read_chart_bytes(
+                            chart["path"],
+                            session_dir,
+                        )
+                        chart_images.append((chart["title"], data))
+                    except (SecurityError, OSError, KeyError):
+                        continue
+
+            except (SecurityError, OSError, KeyError):
+                pass
+
+        if export_type == "pdf":
+            data = build_pdf_bytes(result, chart_images)
+            filename, mime = "byteflow_analysis.pdf", "application/pdf"
+
+        elif export_type == "docx":
+            data = build_docx_bytes(result, chart_images)
+            filename = "byteflow_analysis.docx"
+            mime = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+        elif export_type == "pptx":
+            data = build_pptx_bytes(result, chart_images)
+            filename = "byteflow_analysis.pptx"
+            mime = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+
+        elif export_type == "xlsx":
+            data = build_xlsx_bytes(result)
+            filename = "byteflow_analysis.xlsx"
+            mime = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+        elif export_type == "csv":
+            data = build_csv_bytes(result)
+            filename, mime = "byteflow_analysis.csv", "text/csv"
+
+        else:
+            data = result["report_markdown"].encode("utf-8")
+            filename, mime = "byteflow_analysis.md", "text/markdown"
+
+    except Exception as exc:
+        logger.exception("Export generation failed")
+        st.error("Could not generate this export. Please try again.")
+        return
+
+    st.download_button(
+        label=f"Download {selected}",
+        data=data,
+        file_name=filename,
+        mime=mime,
+        type="primary",
+        width="stretch",
+    )
 
 def render_results(result) -> None:
 
@@ -797,7 +890,7 @@ def render_results(result) -> None:
     names = (
         ["Report", "Data quality", "Statistics"]
         + (["Machine learning"] if ml else [])
-        + ["Charts", "Workflow log"]
+        + ["Charts", "Workflow log", "Export Analysis"]
     )
 
     tabs = dict(zip(names, st.tabs(names)))
@@ -861,6 +954,8 @@ def render_results(result) -> None:
                 st.write(
                     f"- {md_escape(error, 400)}"
                 )
+    with tabs["Export Analysis"]:
+        render_exports(result)
 
 
 # ---------------------------------------------------------------------
@@ -871,7 +966,7 @@ def main() -> None:
 
     st.set_page_config(
         page_title="ByteFlow — AI Data Analyst",
-        page_icon="🌸",
+        page_icon="",
         layout="wide",
     )
 
