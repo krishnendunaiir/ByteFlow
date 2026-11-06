@@ -106,66 +106,9 @@ Includes rule-based plan fallbacks if the LLM provider experiences downtime or A
 - **LLM integration:** OpenAI SDK (compatible with Groq, Google Gemini, OpenRouter, and OpenAI)
 - **Export generation:** ReportLab, python-docx, python-pptx, openpyxl
 
-## 5. Installation and Setup
 
-### Prerequisites
-- Python 3.12 or later
-- Git
-- An API key from a supported OpenAI-compatible LLM provider
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/krishnendunaiir/ByteFlow.git
-cd ByteFlow
-```
-
-### Create a Virtual Environment
-
-**Windows (PowerShell):**
-
-```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-```
-
-**macOS / Linux:**
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-### Install Dependencies
-
-```bash
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-### Configure Environment Variables
-
-Create a `.env` file in the project root:
-
-```env
-LLM_API_KEY=your_api_key_here
-LLM_BASE_URL=https://api.groq.com/openai/v1
-LLM_MODEL=openai/gpt-oss-20b
-```
-
-Replace the example API key and, if necessary, the provider URL and model with your provider's details.
-
-For Streamlit Community Cloud, add the corresponding values through the application's Secrets settings instead of uploading your `.env` file.
-
-### Run ByteFlow
-
-```bash
-python -m streamlit run app.py
-```
-
-Open the local URL displayed in the terminal to access the application.
-
-## 6. Using ByteFlow
+## 5. Using ByteFlow
 
 1. Launch the Streamlit application.
 2. Upload a supported CSV or Excel dataset.
@@ -176,7 +119,7 @@ Open the local URL displayed in the terminal to access the application.
 7. Select your preferred file format from the dropdown.
 8. Click **Download** to export the analysis.
 
-## 7. System Specifications & Security
+## 6. System Specifications & Security
 
 ### File and Data Handling Limits
 
@@ -192,7 +135,7 @@ Open the local URL displayed in the terminal to access the application.
 - **Excel safety:** Formula evaluation is disabled.
 - **Error handling:** User-facing errors do not expose stack traces or secrets.
 
-## 8. Known Scope & Limitations
+## 7. Known Scope & Limitations
 
 - **Analytical boundaries:** Focuses on tabular classification, regression, clustering, and fundamental bivariate and multivariate statistics. Time-series forecasting and complex NLP pipelines are outside its current scope.
 - **Observational limitations:** Results describe statistical associations and predictive patterns, not necessarily causal relationships.
